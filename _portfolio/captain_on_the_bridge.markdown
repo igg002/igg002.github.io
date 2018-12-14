@@ -5,8 +5,8 @@ description: PC game, October 2017
 img: 
 ---
 
-Position: co-director, game designer, programmer.
+Position: team leader, game designer, programmer.
 
-A simulation game in which the player explore procedurally generated planets, colonize them by mining, construct buildings, and gather natural resources. Used Unity with C# for development. Entered the Sunrin Mobile Content Competition and won the gold prize.
+An experimental game about being a spaceship captain, controlling the ship’s maneuver system, with an AI that handles combats. Used Unity with C# for development. Created as a final project for the Game Programming class. Voted as the best project by peers.
 
-Video demo available at https://youtu.be/i34ys5AYM3A / https://youtu.be/UnQMa0AqBWI.
+Video demo available at https://youtu.be/ D8L49wHhZc4.

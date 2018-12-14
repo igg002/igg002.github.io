@@ -9,6 +9,6 @@ img: /img/energy_master.jpg
 
 Position: co-director, game designer, programmer.
 
-A simulation game in which the player explore procedurally generated planets, colonize them by mining, construct buildings, and gather natural resources. Used Unity with C# for development. Entered the Sunrin Mobile Content Competition and won the gold prize.
+A strategy game about producing energy while balancing the population and pollution rate. Used Unity with C# for development. Made in the 3rd Sunrin Internet High School Hackathon and won the gold prize. Entered the eighth Sogang Univ. MTEC National High School Students Game Application Competition and won the grand prize.
 
-Video demo available at https://youtu.be/i34ys5AYM3A / https://youtu.be/UnQMa0AqBWI.
+Video demo available at https://youtu.be/N0p7SaJaXVc.

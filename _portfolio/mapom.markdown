@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Dotter
-description: Software, November 2017
+title: Machine-Powered Object Mapper
+description: System, November 2017
 img: 
 ---
 
-Position: team leader, programmer.
+Position: team leader, designer, machine learning engineer.
 
-A drawing and painting software. Used Java and its GUI library for development. Created as a final project for the Java Programming class.
- 
-Video demo available at https://youtu.be/42mFtsAauqU.
+A system intended to provide a low-cost 3d environment mapping system to game developers. Used Python for machine learning model development.
