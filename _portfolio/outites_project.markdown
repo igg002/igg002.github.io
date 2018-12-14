@@ -7,6 +7,7 @@ img: /img/outites_front_2.png
 
 ![outites_front_2](/img/outites_front_2.png)
 
+
 Position: co-director, game designer, programmer.
 
 
