@@ -2,7 +2,7 @@
 layout: page
 permalink: /stories/
 title: my stories
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: Short writings about stories of my life, imagination, and thoughts
 ---
 
 <ul class="post-list">

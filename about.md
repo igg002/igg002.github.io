@@ -7,7 +7,11 @@ permalink: /about/
 <img class="col one right" src="/img/profile.png">
 
 <br/>
-I'm Sunwoo Jeong
+Hi! I'm Sunwoo Jeong.
+
+I'm currently studying software engineering at Sunrin Internet High School, expected to graduate in 2019.
+
+I'm working on combining creative technologies and games to make immersive, interactive, and incredible experiences. I do research in the fields of Machine Learning, VR, AR, Procedural Content Generation, Computational Creativitiy, HCI, and many more.
 
 <br/>
 <hr/>
