@@ -2,11 +2,8 @@
 layout: post
 title: Lifeinvader
 description: Website, November 2018
-img: /img/outites_front_1.png
+img: 
 ---
-
-![outites_front_1](/img/outites_front_1.png)
-
 
 Position: machine learning engineer.
 

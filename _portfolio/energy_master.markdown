@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Outites
-description: Mobile game, April 2017 ~ July 2018
-img: /img/outites_front_2.png
+title: Energy Master
+description: PC game, July 2017
+img: /img/energy_master.jpg
 ---
 
-![outites_front_2](/img/outites_front_2.png)
+![energy_master](/img/energy_master.jpg)
 
 Position: co-director, game designer, programmer.
 
