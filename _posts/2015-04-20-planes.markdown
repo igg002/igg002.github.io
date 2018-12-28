@@ -2,8 +2,8 @@
 title:  "Planes are cool!"
 subtitle: "The Fly!"
 author: "Sunwoo Jeong"
-avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+avatar: "img/authors/sunwoo.png"
+image: "img/portfolio/outites_front_2.png"
 date:   2015-04-20 12:12:12
 ---
 
