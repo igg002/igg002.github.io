@@ -1,29 +1,7 @@
 # Site settings
-title: Adventure Playground
-email: sunwoo.jeong00@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  http://igg002.github.io
-twitter_username: andysj00
-github_username:  igg002
-
-# Build settings
-markdown: kramdown
-
-highlighter: rouge
-
-# Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
-
-
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /stories/:path/
-
-
+title: Modern Blog
+description: Modern-Blog A Elegant template for Jekyll
+keywords: Modern, Blogging, Fun
+author: Wferr
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
