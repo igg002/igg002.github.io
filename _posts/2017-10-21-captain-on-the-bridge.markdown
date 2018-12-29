@@ -28,4 +28,4 @@ Instead of using a rule-based AI system, The weapon targeting system of the enem
 #### Fully Physics-Based Enemy Guidance System
 Until now, I have been developing pathfinding AI only in games with surfaces, so we had to make a totally new navigating AI because the game has no such surface. The navigation system predicts the ship's future position, and based on the prediction, the system calculates the amount of propulsion needed to maintain a good position to fight with the enemy.
 
-<center> <img src="/img/portfolio/cob-title-1.jpg" width="648" height="236"/> </center>
+<center> <img src="/img/portfolio/cob-title-1.jpg" width="648" height="405"/> </center>
