@@ -12,19 +12,18 @@ date:   2017-07-26 09:58:34
 
 ### Background
 
-I'm a fan of Star Trek, a famous Sci-fi TV series. Watching the spaceship Enterprise traveling through space, I dreamed of myself being the captain, commanding the spaceship myself. I wanted to make this fantasy into a game and also wanted to differentiate it from the gameplay that was often tried. So our team tried to make an experimental game using machine learning.
+Global warming is the biggest problem that humankind is facing today. Since the mid-20th century, the increase in CO2 emissions has caused problems such as sea level rise and desertification on Earth. Our team developed this game to inform the environmental damage caused by the indiscreet use of fossil fuel.
 
-<center> <img src="/img/star-trek-battle.jpg" width="420" height="236"/> </center>
+<center> <img src="/img/fossil-fuel.jpg"/> </center>
 
-Captain on the Bridge is a game in which the player becomes the captain of the ship. The goal is to survive the attack of  enemy ships. The weapon system of the enemy ship is controlled by an AI trained on the data played by human. The player must play the game with strategic moves and judgments.
+Energy Master is a strategy game in which the player builds power stations to increase the score. The player must increase the population to increase the score, while producing sufficient energy proportional to the population. Players must balance the construction of environmentally friendly but less energy-efficient energy power stations with energy-efficient non-renewable energy power stations that destroy the environment. The higher the percentage of renewable energy power stations in the total construction, the higher the score, and vice versa.
 
-<center> <img src="/img/portfolio/em-generation.gif"/> </center>
+<center> <img src="/img/portfolio/em-construction.gif"/> </center>
 
-#### AI System with Deep Learning
+#### Procedurally Generated Environment
 Instead of using a rule-based AI system, The weapon targeting system of the enemy ship is controlled by a trained AI based on the data played by the developer.
 
-#### Fully Physics-Based Enemy Guidance System
-Until now, I have been developing pathfinding AI only in games with surfaces, so we had to make a totally new navigating AI because the game has no such surface. The navigation system predicts the ship's future position, and based on the prediction, the system calculates the amount of propulsion needed to maintain a good position to fight with the enemy.
+<center> <img src="/img/portfolio/em-generation.gif"/> </center>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N0p7SaJaXVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
