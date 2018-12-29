@@ -16,14 +16,16 @@ Global warming is the biggest problem that humankind is facing today. Since the 
 
 <center> <img src="/img/fossil-fuel.jpg"/> </center>
 
-Energy Master is a strategy game in which the player builds power stations to increase the score. The player must increase the population to increase the score, while producing sufficient energy proportional to the population. Players must balance the construction of environmentally friendly but less energy-efficient energy power stations with energy-efficient non-renewable energy power stations that destroy the environment. The higher the percentage of renewable energy power stations in the total construction, the higher the score, and vice versa.
+Energy Master is a strategy game in which the player builds power stations to increase the score. The player must increase the population to increase the score while producing sufficient energy proportional to the population. Players must balance the construction of environmentally friendly but less energy-efficient energy power stations with energy-efficient non-renewable energy power stations that destroy the environment. The higher the percentage of renewable energy power stations in the total construction, the higher the score, and vice versa.
 
 <center> <img src="/img/portfolio/em-construction.gif"/> </center>
 
 #### Procedurally Generated Environment
-Instead of using a rule-based AI system, The weapon targeting system of the enemy ship is controlled by a trained AI based on the data played by the developer.
+Instead of handcrafting a single stage, we developed a procedural generation system to prevent repetitive gameplay. The system creates the game stage using a custom cellular automata model. And to determine the wind velocity, solar radiation, and reserve value of each tile, we used 2D perlin noise for natural distribution.
 
 <center> <img src="/img/portfolio/em-generation.gif"/> </center>
+
+<br>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N0p7SaJaXVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
