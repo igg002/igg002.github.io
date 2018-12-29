@@ -3,12 +3,12 @@ title:  "Jump Away"
 subtitle: "Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/jump-away-title-2-blur.jpg"
+image: "img/portfolio/jump-away-title-2.jpg"
 date:   2016-07-29 10:27:14
 ---
 
 ##### Role: Co-Director, Game Designer / Programmer
-#### Genre: Action
+##### Genre: Action
 
 Energy Master is a strategy game in which the player builds power stations to increase the score. The player must increase the population to increase the score while producing sufficient energy proportional to the population. Players must balance the construction of environmentally friendly but less energy-efficient energy power stations with energy-efficient non-renewable energy power stations that destroy the environment. The higher the percentage of renewable energy power stations in the total construction, the higher the score, and vice versa.
 
