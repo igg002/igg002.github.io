@@ -17,7 +17,9 @@ While watching the drama "Silicon Valley," I saw a startup company in this drama
 
 ### What is Scrom?
 
-Scrom is an online website that provides users with a scrum task board service. The user can add a task by assigning its title, deadline, and detailed information, and assign the created task to stages by its progress: to-do, working, done. By using this service, individuals or groups can efficiently work on projects.
+Scrom is an online website that provides users with a scrum task board service. The user can add a task by assigning its title, deadline, and detailed information. After adding tasks, the user can assign the tasks to stages by its progress: to-do, working, done. By using this service, individuals or groups can efficiently work on projects.
+
+[![Scrom Video Demo](http://img.youtube.com/vi/TujbRE9XQ5Q/0.jpg)](https://youtu.be/TujbRE9XQ5Q)
 
 #### Detail #1
 
