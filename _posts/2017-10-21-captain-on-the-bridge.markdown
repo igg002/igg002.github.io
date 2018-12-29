@@ -1,13 +1,13 @@
 ---
-title:  "Scrom"
-subtitle: "Website"
+title:  "Captain on the Bridge"
+subtitle: "Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/scrom-title-3-blur.jpg"
-date:   2016-12-02 16:05:12
+image: "img/portfolio/cob-title-2-blur.jpg"
+date:   2017-10-21 20:22:19
 ---
 
-Role: Director, Programmer
+##### Role: Director, Game Designer / Programmer
 
 ### Background
 
@@ -20,6 +20,5 @@ While watching the drama "Silicon Valley," I saw a startup company using the scr
 Scrom is an online website that provides users with a scrum task board service. The user can add a task by assigning its title, deadline, and detailed information. After adding tasks, the user can assign the tasks to stages by its progress: to-do, working, done. By using this service, individuals or groups can efficiently work on projects.
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TujbRE9XQ5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D8L49wHhZc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
-
