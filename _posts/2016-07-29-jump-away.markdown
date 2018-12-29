@@ -10,16 +10,11 @@ date:   2016-07-29 10:27:14
 ##### Role: Co-Director, Game Designer / Programmer
 ##### Genre: Action
 
-Energy Master is a strategy game in which the player builds power stations to increase the score. The player must increase the population to increase the score while producing sufficient energy proportional to the population. Players must balance the construction of environmentally friendly but less energy-efficient energy power stations with energy-efficient non-renewable energy power stations that destroy the environment. The higher the percentage of renewable energy power stations in the total construction, the higher the score, and vice versa.
+Jumpaway is a racing game in which two players compete against each other. The two players can attack each other and push each other away from collecting coins or reaching the endpoint. When a player reaches the end point, the person with more coin wins. On the other hand, if no one gets to the end point and a player out of the play zone in the middle, the player loses.
 
-<center> <img src="/img/portfolio/em-construction.gif"/> </center>
+<center> <img src="/img/portfolio/jump-away-fight-1.jpg"/> </center>
 
-#### Procedurally Generated Environment
-Instead of handcrafting a single stage, we developed a procedural generation system to prevent repetitive gameplay. The system creates the game stage using a custom cellular automata model. And to determine the wind velocity, solar radiation, and reserve value of each tile, we used 2D perlin noise for natural distribution.
-
-<center> <img src="/img/portfolio/em-generation.gif"/> </center>
-
-<br>
+Because the game has several obstacles on the stage and can be played in two different ways, it induces the player to recognize one's situation and play strategically.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZsS-GFdXcZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
