@@ -3,7 +3,7 @@ title:  "Jump Away"
 subtitle: "Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/jump-away-title-1-blur.jpg"
+image: "img/portfolio/jump-away-title-2-blur.jpg"
 date:   2016-07-29 10:27:14
 ---
 
