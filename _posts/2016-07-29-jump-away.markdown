@@ -1,20 +1,14 @@
 ---
-title:  "Energy Master"
+title:  "Jump Away"
 subtitle: "Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/energy-master-title-1-blur.jpg"
-date:   2017-07-26 09:58:34
+image: "img/portfolio/jump-away-title-1-sharp.jpg"
+date:   2016-07-29 10:27:14
 ---
 
 ##### Role: Co-Director, Game Designer / Programmer
-##### Genre: Strategy
-
-### Background
-
-Global warming is one of the biggest problems that humankind is facing today. Since the mid-20th century, the increase in CO2 emissions has caused problems such as sea level rise and desertification on Earth. Our team developed this game to inform the environmental damage caused by the indiscreet use of fossil fuel.
-
-<center> <img src="/img/fossil-fuel.jpg"/> </center>
+#### Genre: Action
 
 Energy Master is a strategy game in which the player builds power stations to increase the score. The player must increase the population to increase the score while producing sufficient energy proportional to the population. Players must balance the construction of environmentally friendly but less energy-efficient energy power stations with energy-efficient non-renewable energy power stations that destroy the environment. The higher the percentage of renewable energy power stations in the total construction, the higher the score, and vice versa.
 
@@ -28,5 +22,5 @@ Instead of handcrafting a single stage, we developed a procedural generation sys
 <br>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N0p7SaJaXVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZsS-GFdXcZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
