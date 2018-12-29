@@ -13,7 +13,9 @@ Role: Director, Programmer
 
 While watching the drama "Silicon Valley," I saw a startup company in this drama use the scrum task board. I usually do a lot of projects, and I thought it would be very efficient to do things that way, and it was actually very effective. I thought that it would be a good idea to make this scrum task board available to many people online.
 
-<img src="/img/silicon-valley-scrum.jpg" width="512" height="288" style="margin-left: auto; margin-right: auto;" />
+<center>
+<img src="/img/silicon-valley-scrum.jpg" width="512" height="288"/>
+</center>
 
 ### What is Scrom?
 
