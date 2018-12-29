@@ -3,8 +3,8 @@ title:  "Energy Master"
 subtitle: "Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/placeholder-2.jpg"
-date:   2017-10-21 20:22:19
+image: "img/portfolio/energy-master-title-1-sharp.jpg"
+date:   2017-07-26 09:58:34
 ---
 
 ##### Role: Co-Director, Game Designer / Programmer

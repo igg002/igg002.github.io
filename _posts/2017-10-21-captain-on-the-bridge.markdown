@@ -12,7 +12,7 @@ date:   2017-10-21 20:22:19
 
 ### Background
 
-I'm a fan of Star Trek, a famous Sci-fi TV series. Watching the spaceship Enterprise traveling through space, I dreamed of myself being the captain, commanding the spaceship myself. I wanted to make this fantasy into a game and also wanted to differentiate it from the gameplay that was often tried. So our team tried to make an experimental game using machine learning.
+I'm a big fan of Star Trek, a famous Sci-fi TV series. Watching the spaceship Enterprise traveling through space, I dreamed of myself being the captain, commanding the spaceship myself. I wanted to make this fantasy into a game and also wanted to differentiate it from the gameplay that was often tried. So our team tried to make an experimental game using machine learning.
 
 <center> <img src="/img/star-trek-battle.jpg" width="420" height="236"/> </center>
 
