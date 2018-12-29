@@ -8,6 +8,7 @@ date:   2017-10-21 20:22:19
 ---
 
 ##### Role: Director, Game Designer / Programmer
+##### Genre: Action, Shooter
 
 ### Background
 

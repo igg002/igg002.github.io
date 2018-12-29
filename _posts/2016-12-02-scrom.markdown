@@ -7,7 +7,7 @@ image: "img/portfolio/scrom-title-3-blur.jpg"
 date:   2016-12-02 16:05:12
 ---
 
-Role: Director, Programmer
+##### Role: Director, Programmer
 
 ### Background
 
