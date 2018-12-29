@@ -3,7 +3,7 @@ title:  "Energy Master"
 subtitle: "Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/energy-master-title-1-sharp.jpg"
+image: "img/portfolio/energy-master-title-1-blur.jpg"
 date:   2017-07-26 09:58:34
 ---
 
