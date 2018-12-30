@@ -1,0 +1,21 @@
+---
+title:  "Nowledge"
+subtitle: "Android App"
+author: "Sunwoo Jeong"
+avatar: "img/authors/sunwoo.png"
+image: "img/portfolio/placeholder-2.jpg"
+date:   2018-07-29 20:19:51
+---
+
+##### Role: Director, Programmer
+
+### Background
+
+Nowadays, society is changing rapidly and the rate and time for watching news and articles are increasing. As a result, people are demanding higher quality articles and higher credibility. Various rallies, political reforms, and diplomatic relations between countries. People want to get their articles delivered as soon as possible.
+
+<center> <img src="/img/portfolio/nowledge-screenshot-1.jpg"/> </center>
+
+Nowledge is based on the idea of "What if we can enjoy news articles and blog posts lightly?"
+
+This app allows users to enjoy articles that suit their tastes and interests. Nowledge helps to develop interdisciplinary thinking through reading reports from various fields.
+
