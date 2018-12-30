@@ -3,7 +3,7 @@ title:  "Life Invader"
 subtitle: "Website"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/life-invader-title-1.png"
+image: "img/portfolio/life-invader-title-1-dark-1.png"
 date:   2017-11-18 16:01:05
 ---
 
