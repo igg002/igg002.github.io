@@ -3,7 +3,7 @@ title:  "Dotter"
 subtitle: "Multiplatform Painting Application"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/dotter-title-demo-1.gif"
+image: "img/portfolio/dotter-title-demo-1-dark-1.gif"
 date:   2017-12-01 23:01:44
 ---
 
