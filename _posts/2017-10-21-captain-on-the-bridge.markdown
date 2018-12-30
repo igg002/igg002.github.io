@@ -3,7 +3,7 @@ title:  "Captain on the Bridge"
 subtitle: "Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/cob-title-2.jpg"
+image: "img/portfolio/cob-title-gameplay-1-dark-1.gif"
 date:   2017-10-21 20:22:19
 ---
 
