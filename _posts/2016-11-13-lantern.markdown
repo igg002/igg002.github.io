@@ -12,7 +12,7 @@ date:   2016-11-13 12:25:43
 
 Lantern is a top-down shooter game about a boy surviving in a deserted and devastated city, fighting against zombies. The boy, who has no place to depend on, embarks on a journey to brighten the city like a lantern.
 
-<center> <img src="/img/portfolio/lantern-concept-1.jpg"/> </center>
+<center> <img src="/img/portfolio/lantern-concept-2.jpg"/> </center>
 
 #### The Viewpoint
 
