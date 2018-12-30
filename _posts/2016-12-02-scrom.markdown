@@ -3,7 +3,7 @@ title:  "Scrom"
 subtitle: "Website"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/scrom-title-3-blur.jpg"
+image: "img/portfolio/scrom-menu-blur.gif"
 date:   2016-12-02 16:05:12
 ---
 
