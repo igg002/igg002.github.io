@@ -52,7 +52,7 @@
 	height: auto;
 	margin: 400px auto 60px;
 	padding: 30px 40px 22px;
-	background: #000;
+	background: #fff;
 }
 
 .card__container--closed .card__content {
@@ -86,7 +86,7 @@
 }
 
 .card__container--closed .card__title {
-	color: #000;
+	color: #fff;
 }
 
 .card__subtitle {
