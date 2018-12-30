@@ -10,7 +10,11 @@ date:   2016-11-13 12:25:43
 ##### Role: Co-Director, Game Designer / Programmer
 ##### Genre: Action, Shooter
 
-Lantern is a game in which the player have to survive the zombies that attack the base.
+Lantern is a top-down shooter game about a boy surviving in a deserted and devastated city, fighting against zombies. The boy, who has no place to depend on, embarks on a journey to brighten the city like a lantern.
+
+<center> <img src="/img/portfolio/lantern-concept-1.jpg"/> </center>
+
+#### The Viewpoint
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/olW9BfQksVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
