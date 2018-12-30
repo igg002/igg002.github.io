@@ -3,7 +3,7 @@ title:  "Outites"
 subtitle: "Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/outites-title-mash-1-close.jpg"
+image: "img/portfolio/outites-title-mash-1-filter.jpg"
 date:   2018-08-20 12:45:11
 ---
 
