@@ -3,7 +3,7 @@ title:  "Lantern"
 subtitle: "Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/lantern-movement.gif"
+image: "img/portfolio/lantern-gameplay-1-blur.gif"
 date:   2016-11-13 12:25:43
 ---
 
