@@ -4,7 +4,7 @@ subtitle: "Website"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
 image: "img/portfolio/placeholder-2.jpg"
-date:   2016-11-18 16:01:05
+date:   2017-11-18 16:01:05
 ---
 
 ##### Role: Idea, Machine Learning Engineer
