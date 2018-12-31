@@ -1,5 +1,5 @@
 ---
-title:  "Deep Learning"
+title:  "Creative Deep Learning"
 subtitle: "Research Projects"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
@@ -9,17 +9,18 @@ date:   2017-05-25 19:54:16
 
 ### Background
 
+
+<center> <img src="/img/can.jpeg"/> </center>
+
 ### Research Projects
 
 
-#### 1. Predicting Bike Sharing Rides
+#### 1. Handwritten Character Generation
 
 
-#### 2. Image Classification
+#### 2. TV Script Generation
 
 
-#### 3. Machine Translation
+#### 3. Face Generation
 
-
-#### 4. Autoencoders
 
