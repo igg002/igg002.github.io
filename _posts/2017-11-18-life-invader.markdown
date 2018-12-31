@@ -21,5 +21,5 @@ In other words, Word2Vec represents linguistic words as numeric vectors, resulti
 
 <center>
 <img src="/img/portfolio/word2vec.png"/> 
-<p><small>Visualization of a vector space with vectorized words</small></p>
+<p><small>Visualization of a vector space mapped with word vectors</small></p>
 </center>
