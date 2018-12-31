@@ -1,6 +1,6 @@
 ---
 title:  "Captain on the Bridge"
-subtitle: "Game"
+subtitle: "Video Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
 image: "img/portfolio/cob-title-gameplay-1-dark-1.gif"

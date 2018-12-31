@@ -1,6 +1,6 @@
 ---
 title:  "Outites"
-subtitle: "Game"
+subtitle: "Video Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
 image: "img/portfolio/outites-title-mash-1-filter-2.jpg"
