@@ -10,21 +10,14 @@ date:   2018-08-20 12:45:11
 ##### Role: Co-Director, Game Designer / Programmer
 
 ### Background
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+The design goal of the project was to make a game that is different from typical mobile games and make it as innovative and experimental as we can. Usual mobile games are small in scale (compared to PC games), consist of repetitive gameplay, and quantitates success using scores. I wanted to break these general rules of mobile games.
 
 ### What is Outites?
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+Outites is a game where the player becomes the explorer, discovers unknown planets, and transforms the planet using resources. We wanted the player to have a new experience every time they discovered a new planet. Each planet has a different combination of resource reserves, topography, colors in the environment, and the placement of natural elements.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+Outites is a mobile simulation game in which the player explore procedurally generated planets, colonize them by mining, construct buildings, and gather natural resources.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+#### Procedurally Generated Planets
+In the process of mining, the player can obtain underground mineral resources such as stones, gold, copper, and iron. The mining probabilities are unique to each planet.
+Each building generates resources at a certain time. The interval of resource generation time is determined by the fertility of the planet and the degree of wind blowing. The planet generation system in Outites can create billions of unique planets.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
-
-#### Detail #1
-
-#### Detail #2
-
-#### Detail #3
-
-### External Links
