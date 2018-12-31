@@ -15,7 +15,9 @@ My role in this project was to make a system that recommends related keywords wi
 #### Word2Vec
 I used machine learning, specifically a technique called Word2Vec to develop this system.
 
-> Word2vec models are shallow, two-layer neural networks that are trained to reconstruct linguistic contexts of words.
+According to wikipedia,
+
+> "Word2vec models are shallow, two-layer neural networks that are trained to reconstruct linguistic contexts of words."
 
 In other words, Word2Vec represents linguistic words as numeric vectors, resulting in clustering words with similar meaning, usage, or context. By comparing the similarity between the keyword that the user searched for with other pre-vectorized words, the system selects words with the highest similarity and provides them to the user.
 
