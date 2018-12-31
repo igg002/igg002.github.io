@@ -8,7 +8,7 @@ date:   2017-05-25 19:54:16
 ---
 
 ### Background
-Recently, AI system using deep learning has been creating new generative art pieces that we've never seen before. I was deeply impressed by the AI doing art, so I decided to develop such a system for inspiration for my games.
+Recently, AI systems using deep learning has been creating new generative art pieces that we've never seen before. I was deeply impressed by AI doing art, so I decided to develop such a system for inspiration for my games.
 
 <center> <img src="/img/can.jpg"/> </center>
 
