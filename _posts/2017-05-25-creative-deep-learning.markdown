@@ -18,7 +18,7 @@ Recently, AI systems using deep learning has been creating new generative art pi
 
 #### 2. TV Script Generation
 
-<center> <img src="/img/portfolio/script-gen.png"/> </center>
+<center> <img src="/img/portfolio/script-gen.png" width="505" height="170"/> </center>
 
 #### 3. Face Generation
 
