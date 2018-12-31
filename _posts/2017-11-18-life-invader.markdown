@@ -20,6 +20,6 @@ I used machine learning, specifically a technique called Word2Vec to develop thi
 In other words, Word2Vec represents linguistic words as numeric vectors, resulting in clustering words with similar meaning, usage, or context. By comparing the similarity between the keyword that the user searched for with other pre-vectorized words, the system selects words with the highest similarity and provides them to the user.
 
 <center>
-<img src="/img/portfolio/word2vec.png"/> 
+<img src="/img/portfolio/word2vec.jpg"/> 
 <p><small>Visualization of a vector space mapped with word vectors</small></p>
 </center>
