@@ -10,6 +10,18 @@ date:   2018-08-20 12:45:11
 ##### Role: Co-Director, Game Designer / Programmer
 
 ### Background
+Since I was a child, my dream was to travel the universe and to boldly go where no one has gone before. Planets full of wonder, mysterious alien creatures, and breathtaking civilizations. I wanted to express these beautiful and charming experience of exploration as a game.
+
+<center> 
+
+<img src="/img/syd-mead-resized-1.jpg"/>
+
+<img src="/img/syd-mead-resized-2.jpg"/>
+<p><small>Concept arts from Syd Mead</small></p>
+
+</center>
+
+### Designing the Game
 The design goal of the project was to make a game that is different from typical mobile games and make it as innovative and experimental as we can. Usual mobile games are small in scale (compared to PC games), consist of repetitive gameplay, and quantitates success using scores. I wanted to break these general rules of mobile games.
 
 ### What is Outites?
