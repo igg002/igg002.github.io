@@ -3,7 +3,7 @@ title:  "Nowledge"
 subtitle: "Android App"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/placeholder-2.jpg"
+image: "img/portfolio/nowledge-title-2.gif"
 date:   2018-07-29 20:19:51
 ---
 
