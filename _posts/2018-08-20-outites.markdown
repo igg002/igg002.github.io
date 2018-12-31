@@ -47,4 +47,7 @@ In the process of mining, the player can obtain underground mineral resources su
 
 Players can also construct buildings. Each building generates resources at a certain time. The interval of resource generation time is determined by the fertility of the planet and the degree of wind blowing. 
 
-<center> <img src="/img/portfolio/outites-mining.gif"/> </center>
+<center>
+<img src="/img/portfolio/outites-construction.gif"/>
+<p><small>Constructing buildings</small></p>
+</center>
