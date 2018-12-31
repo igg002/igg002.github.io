@@ -37,18 +37,6 @@ As I did when making a model to generate handwritten character images, I used a 
 Surprisingly, the model was able to generate a large amount of complex but diverse faces.
 
 ### Conclusion
-가장 기본적인 생성 모델들인 GAN과 RNN을 사용해서 사진과 텍스트를 생성해내는 것에 성공했다. 생성된 작품의 퀄리티는 완벽하다고 할 수 없지만, 상당히 믿을만한 작품을 만들어내서 굉장히 놀랐다.
-
-나는 창의성이 새로운 것, 그리고 다양한 것을 경험함으로써 발달한다고 생각한다. 때문에, 이런 generative model들이 게임을 개발할 때 게임 캐릭터를 생성해낸다거나, 그런 예술 작품을 만들어낼 때 out-of-the-box 사고를 촉진시킬 잠재력을 많이 가지고있다고 생각하게 되었다.
-
-I succeeded in generating pictures and texts using the most basic generation models, GAN and RNN. I can not say that the quality of the created works is perfect, but I was very surprised to have produced quite credible works.
-
-I think that creativity develops by experiencing new things and various things. So, I think that these generative models have a lot of potential to create game characters when developing games, or to promote out-of-the-box thinking when creating such works of art.
-
-I succeeded in creating pictures and text using the most basic model of creation, GAN and RNN. The quality of the work produced was not perfect, but I was very surprised to have produced a fairly reliable piece.
-
-I think creativity develops by experiencing new things and different things. Therefore, it occurred to me that these generic models have a lot of potential to create game characters when developing games or to promote out-of-the-box thinking when creating such works of art.
-
-I succeeded in generating pictures and texts using the most basic generation models, GAN and RNN. I can not say that the quality of the created works is perfect, but I was very surprised that the systems produced fairly realistic-looking works.
+I succeeded in generating pictures and texts using the most basic generation models, GAN and RNN. I can not say that the quality of the created works is perfect, but I was shocked that the systems produced fairly realistic-looking works.
 
 I think that creativity develops with various new experiences. So, I think that these generative models have a lot of potential to promote out-of-the-box thinking when creating art.
