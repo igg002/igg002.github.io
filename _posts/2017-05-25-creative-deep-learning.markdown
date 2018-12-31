@@ -14,12 +14,12 @@ Recently, AI systems using deep learning has been creating new generative art pi
 
 #### 1. Handwritten Character Generation
 
-<center> <img src="/img/portfolio/character-gen.jpg"/> </center>
+<center> <img src="/img/portfolio/character-gen.png"/> </center>
 
 #### 2. TV Script Generation
 
-<center> <img src="/img/portfolio/script-gen.jpg"/> </center>
+<center> <img src="/img/portfolio/script-gen.png"/> </center>
 
 #### 3. Face Generation
 
-<center> <img src="/img/portfolio/face-gen.jpg"/> </center>
+<center> <img src="/img/portfolio/face-gen.png"/> </center>
