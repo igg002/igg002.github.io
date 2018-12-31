@@ -27,7 +27,7 @@ The design goal of the project was to make a game that is different from typical
 ### What is Outites?
 Outites is a game where the player becomes the explorer, discovers unknown planets, and transforms the planet using resources. We wanted the player to have a new experience every time they discovered a new planet. Each planet has a different combination of resource reserves, topography, colors in the environment, and the placement of natural elements.
 
-Outites is a mobile simulation game in which the player explore procedurally generated planets, colonize them by mining, construct buildings, and gather natural resources.
+<center> <img src="/img/portfolio/outites-generation.gif"/> </center>
 
 #### Procedurally Generated Planets
 In the process of mining, the player can obtain underground mineral resources such as stones, gold, copper, and iron. The mining probabilities are unique to each planet.
