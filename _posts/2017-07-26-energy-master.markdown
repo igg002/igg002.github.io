@@ -1,6 +1,6 @@
 ---
 title:  "Energy Master"
-subtitle: "video Game"
+subtitle: "Video Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
 image: "img/portfolio/energy-master-title-1-blur.jpg"
