@@ -1,0 +1,18 @@
+---
+title:  "Swingby"
+subtitle: "Video Game"
+author: "Sunwoo Jeong"
+avatar: "img/authors/sunwoo.png"
+image: "img/portfolio/placeholder-2.jpg"
+date:   2016-08-19 11:02:10
+---
+
+##### Role: Co-Director, Game Designer / Programmer
+
+Swingby is a space simulation game in which the player controls a space probe. The game eliminates the slow-paced gameplay of simulation games and shows the mysteries of the universe by encouraging players to act strategically and flexibly.
+
+The player has to avoid asteroids using minimal fuel and reach the swing-by trajectory. Swing-by success depends on timing and speed. If you enter the orbit of a planet, but the probe's velocity is fast, you will collide with the planet. Also, if the player is far from the orbit of the planet, one fails to swing-by.
+
+The number of planets and moons without a docking station increases. Besides, the frequency of appearance of asteroids also increases. When the probe docks with the space station, it fills a certain amount of fuel, and the amount of filling decreases as time goes by. To meet the increasing difficulty, the player has to play with the utmost care for the use of fuel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/axUCr8059Tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
