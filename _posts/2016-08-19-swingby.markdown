@@ -3,7 +3,7 @@ title:  "Swingby"
 subtitle: "Video Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/placeholder-2.jpg"
+image: "img/portfolio/swingby-gameplay-fast-160-opt.gif"
 date:   2016-08-19 11:02:10
 ---
 
