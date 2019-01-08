@@ -28,4 +28,6 @@ Instead of using a rule-based AI system, The weapon targeting system of the enem
 #### Fully Physics-Based Enemy Guidance System
 Until now, I have been developing pathfinding AI only in games with surfaces, so we had to make a new navigating AI because the game has no such surface. The navigation system predicts the ship's future position, and based on the prediction, the system calculates the amount of propulsion needed to maintain a good position to fight with the enemy.
 
+Created as a final project for the Game Programming class, Captain on the Bridge was voted as the best project by peers.
+
 <center> <img src="/img/portfolio/cob-title-1.jpg" width="648" height="405"/> </center>

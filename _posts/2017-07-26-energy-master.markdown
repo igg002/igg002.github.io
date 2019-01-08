@@ -25,6 +25,8 @@ Instead of handcrafting a single stage, we developed a procedural generation sys
 
 <center> <img src="/img/portfolio/em-generation.gif"/> </center>
 
+With Energy Master, our team won the **Gold Prize (1st Place) in the 3rd School (Sunrin Internet High School) Hackathon Game Application Field and the President Award (1st Place) in the 8th Sogang University MTEC National High School Student Game Application Competition**.
+
 <br>
 
 <center>

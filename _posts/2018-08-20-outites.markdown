@@ -48,7 +48,10 @@ Players can also construct buildings. Each building generates resources at a cer
 <center>
 <img src="/img/portfolio/outites-construction.gif"/>
 <p><small>Constructing buildings</small></p>
+</center>
 
+With Outites, our team won the **Gold Prize (2nd Place) in the 22018 School (Sunrin Internet High School) Mobile Content Competition, Game Application Field**.
+
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C9iIGnywQvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 </center>

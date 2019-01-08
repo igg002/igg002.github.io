@@ -19,6 +19,8 @@ Nowledge is based on the idea of "What if we can enjoy news articles and blog po
 
 This app allows users to enjoy articles that suit their tastes and interests. Nowledge helps to develop interdisciplinary thinking through reading reports from various fields.
 
+Created as a final project for the Smart Culture App Contents Production class, Nowledge was selected as an excellent project.
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TEDptxeGEf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
