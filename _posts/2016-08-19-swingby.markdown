@@ -3,7 +3,7 @@ title:  "Swingby"
 subtitle: "Video Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/swingby-gameplay-fast-160-opt.gif"
+image: "img/portfolio/swingby-gameplay.gif"
 date:   2016-08-19 11:02:10
 ---
 
@@ -15,4 +15,6 @@ The player has to avoid asteroids using minimal fuel and reach the swing-by traj
 
 The number of planets and moons without a docking station increases. Besides, the frequency of appearance of asteroids also increases. When the probe docks with the space station, it fills a certain amount of fuel, and the amount of filling decreases as time goes by. To meet the increasing difficulty, the player has to play with the utmost care for the use of fuel.
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/axUCr8059Tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
