@@ -16,6 +16,8 @@ Jump Away is a racing game in which two players compete against each other. The 
 
 Because the game has several obstacles on the stage and can be played in two different ways, it induces the player to recognize one's situation and play strategically.
 
+<center> <img src="/img/portfolio/jump-away-gameplay.gif"/> </center>
+
 With Jump Away, our team won the **Gold Prize (1st Place) in the 2nd School (Sunrin Internet High School) Hackathon, Game Application Field**.
 
 <center>
