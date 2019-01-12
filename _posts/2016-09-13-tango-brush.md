@@ -3,7 +3,7 @@ title:  "Tango Brush"
 subtitle: "Mobile Mixed Reality Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
-image: "img/portfolio/tango-brush-title-1.png"
+image: "img/portfolio/tango-brush-title-1.jpg"
 date:   2016-09-13 20:55:39
 ---
 
