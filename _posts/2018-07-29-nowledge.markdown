@@ -22,5 +22,5 @@ This app allows users to enjoy articles that suit their tastes and interests. No
 Created as a final project for the Smart Culture App Contents Production class, Nowledge was **selected as an excellent project**.
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TEDptxeGEf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hf_DErz0dwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
