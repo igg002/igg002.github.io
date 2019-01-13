@@ -19,5 +19,7 @@ The player must upgrade the turrets and act strategically to handle the increasi
 <center>
 <img src="/img/portfolio/lantern-combat.gif"/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/olW9BfQksVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/taADU5yFMBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
