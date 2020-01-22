@@ -1,7 +1,30 @@
-<footer class="site-footer">
+<!-- The footer at the very bottom of the screen -->
+<footer class="footer section-padding">
+  <div class="grid">
+    <div class="subscribe" id="subscribe">
+      <div class="subscribe__container">
+        <span class="subscribe__title">Subscribe</span>
+        <p class="subscribe__text">Get a weekly email of posts I’ve added to the site.</p>
+        {% include subscribe-form.html %}
+      </div>
+    </div>
 
-  <div class="wrapper">
-  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+    <hr class="sep--white"/>
+
+    <div class="footer__container">
+      {% tags_list :threshold => 1, :sort_by => count, :order_by => desc, :limit => 10 %}
+
+      {% include social.html %}
+    </div>
   </div>
-
 </footer>
+
+{% include contact.html %}
+
+{% if paginator.next_page %}
+  <script>
+    var maxPages = parseInt('{{ paginator.total_pages }}');
+  </script>
+{% endif %}
+
+<script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
