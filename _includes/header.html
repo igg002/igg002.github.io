@@ -1,5 +1,22 @@
-<header class="header">
-  <a class="header__title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+<header class="site-header">
 
-  {% include navigation.html %}
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- {{ site.title }} instead of blog -->
+        <a class="page-link" href="{{ site.baseurl }}/">blog</a>
+
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+
+      </div>
+    </nav>
+
+  </div>
+
 </header>
