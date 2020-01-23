@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Blog
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Writings of my thoughts and ideas.'
 image: assets/images/a02.jpg
 nav-menu: true
 ---

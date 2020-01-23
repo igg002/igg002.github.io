@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Portfolio
+description: 'Worlds and plays that I've created.'
 image: assets/images/a01.jpg
 nav-menu: true
 ---
