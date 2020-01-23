@@ -15,7 +15,7 @@ phone: (518) 334-5424
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 6
 
 # social settings
 500px_url:
