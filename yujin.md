@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-image: assets/images/a03.jpg
+title: Yujin
+image: assets/images/a04.jpg
 nav-menu: true
 ---
 
