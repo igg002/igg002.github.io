@@ -3,8 +3,8 @@ title: Sun.
 subtitle: Jeong
 email: sunwoo.jeong00@gmail.com
 description: Undergraduate student studying game innovation at RPI.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
@@ -20,7 +20,7 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://gitlab.com/u/igg002
+github_url: https://github.com//igg002
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
