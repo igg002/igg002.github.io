@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portfolio
-description: Worlds and plays that I've created.
+description: Worlds, experiences, and experiments that I've created.
 image: assets/images/a01.jpg
 nav-menu: true
 ---
