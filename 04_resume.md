@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Resume/CV
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/a04.jpg
 nav-menu: true

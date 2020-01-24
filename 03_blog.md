@@ -2,7 +2,7 @@
 title: Blog
 layout: landing
 description: 'Writings of my thoughts and ideas.'
-image: assets/images/a02.jpg
+image: assets/images/a03.jpg
 nav-menu: true
 ---
 
