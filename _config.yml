@@ -31,6 +31,7 @@ twitter_url: https://twitter.com/sun_jeong00
 
 # build settings
 markdown: kramdown
+include: ['pages']
 
 sass:
   style: compressed
