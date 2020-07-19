@@ -7,7 +7,7 @@ image: "img/portfolio/sh1.jpg"
 date:   2019-11-19 00:00:00
 ---
 
-<center> <img src="/img/portfolio/sh1.jpg"/> </center>
+<center> <img src="/img/portfolio/sh2.jpg"/> </center>
 
 ##### Role: Game Designer / Digital Fabrication
 
