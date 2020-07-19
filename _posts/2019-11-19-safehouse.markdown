@@ -29,4 +29,5 @@ Also, the capturing of historical figures gives the slave hunter something that 
 ### Design Goals
 The main topic we selected for designing the game was the “Shifting game board.” With that topic in mind, we started the initial ideation process of choosing the target essential experiences and the core rules and mechanics of our game. The essential experiences we chose for this game were: strategy, relief, distress, anxiety, danger, and suspense. And with those two design constraints, we envisioned a game about a station master and a slave hunter competing in a house with movable furnitures, where the station master places hiding spots and rearranges them to strategically confuse the slave hunter, while the slave hunter moves and checks.
 
-[Link to the news article introducing this project](https://news.rpi.edu/approach/2019/11/19-0)
+### Links
+**[Link to the news article introducing this project](https://news.rpi.edu/approach/2019/11/19-0)**

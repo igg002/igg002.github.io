@@ -29,5 +29,6 @@ The target audience is everyone. By making this game open-ended and making it ha
 ### Embedded Values
 Freedom, exploration, and uniqueness. The game is mainly about exploring the possibility space where every element is dynamically generated as the player plays the game. Tea Town Invokes a sense of exploration and encourages the player to express themselves by giving the freedom to decorate and play with the world.
 
-[Link to downloadable demo](https://sunjeong.itch.io/tea-town)
-[Link to playable web demo](https://sunjeong.itch.io/tea-town-web)
+### Links
+**[Link to downloadable demo](https://sunjeong.itch.io/tea-town)**
+**[Link to playable web demo](https://sunjeong.itch.io/tea-town-web)**
