@@ -16,7 +16,7 @@ date:   2020-11-21 00:00:00
 ##### Role: Game Designer / Programmer
 
 #### Description
-Town Sunny is a PC game where the player colorfully paints the monotonous game world by planting unique trees and exploring the possibility space of the game.
+Town Sunny is a PC game where the player colorfully paints the monotonous game world by planting unique procedurally generated trees and exploring the possibility space of the game.
 
 #### Rules
 The game is an open-ended sandbox simulation game. The player is free to set their own goals and play as they want to play.
