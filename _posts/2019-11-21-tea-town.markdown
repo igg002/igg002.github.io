@@ -1,0 +1,33 @@
+---
+title:  "Tea Rown"
+subtitle: "Video Game"
+author: "Sunwoo Jeong"
+avatar: "img/authors/sunwoo.png"
+image: "img/portfolio/tt1.png"
+date:   2020-11-21 00:00:00
+---
+
+<center> 
+
+<img src="/img/portfolio/tt2.png"/>
+<img src="/img/portfolio/tt3.png"/>
+<p><small>In-game screenshots</small></p>
+
+</center>
+
+##### Role: Game Designer / Programmer
+
+### Description
+Town Sunny is a PC game where the player colorfully paints the monotonous game world by planting unique trees and exploring the possibility space of the game.
+
+### Rules
+The game is an open-ended sandbox simulation game. The player is free to set their own goals and play as they want to play.
+
+### Intended Audience
+The target audience is everyone. By making this game open-ended and making it have simple controls, anyone can play and explore the possibility space with their style. However, players who prefer playing sandbox games would be the demographic that most enjoy this game.
+
+### Embedded Values
+Freedom, exploration, and uniqueness. The game is mainly about exploring the possibility space where every element is dynamically generated as the player plays the game. Tea Town Invokes a sense of exploration and encourages the player to express themselves by giving the freedom to decorate and play with the world.
+
+[Link to downloadable demo](https://sunjeong.itch.io/tea-town)
+[Link to playable web demo](https://sunjeong.itch.io/tea-town-web)
