@@ -7,6 +7,10 @@ image: "img/portfolio/swingby-gameplay.gif"
 date:   2016-08-19 11:02:10
 ---
 
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/axUCr8059Tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ##### Role: Co-Director, Game Designer / Programmer
 
 Swingby is a space simulation game in which the player controls a space probe. The game eliminates the slow-paced gameplay of simulation games and shows the mysteries of the universe by encouraging players to act strategically and flexibly.
@@ -16,7 +20,3 @@ The player has to avoid asteroids using minimal fuel and reach the swing-by traj
 The number of planets and moons without a docking station increases. Besides, the frequency of appearance of asteroids also increases. When the probe docks with the space station, it fills a certain amount of fuel, and the amount of filling decreases as time goes by. To meet the increasing difficulty, the player has to play with the utmost care for the use of fuel.
 
 With Swingby, our team won the **President Award (1st Place) in the 7th Sogang University MTEC National High School Student Game Application Competition**.
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/axUCr8059Tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>

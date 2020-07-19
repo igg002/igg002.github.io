@@ -7,9 +7,13 @@ image: "img/portfolio/nowledge-title-demo-1-blur-dark.gif"
 date:   2018-07-29 20:19:51
 ---
 
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hf_DErz0dwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ##### Role: Director, Programmer
 
-### Background
+#### Background
 
 Nowadays, society is changing rapidly and the rate and time for watching news and articles are increasing. As a result, people are demanding higher quality articles and higher credibility. Various rallies, political reforms, and diplomatic relations between countries; People want to get their articles delivered as soon as possible.
 
@@ -20,7 +24,3 @@ Nowledge is based on the idea of "What if we can enjoy news articles and blog po
 This app allows users to enjoy articles that suit their tastes and interests. Nowledge helps to develop interdisciplinary thinking through reading reports from various fields.
 
 Created as a final project for the Smart Culture App Contents Production class, Nowledge was **selected as an excellent project**.
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hf_DErz0dwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>

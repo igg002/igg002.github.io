@@ -7,6 +7,10 @@ image: "img/portfolio/jump-away-title-2.jpg"
 date:   2016-07-29 10:27:14
 ---
 
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4myoco8XCLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ##### Role: Co-Director, Game Designer / Programmer
 ##### Genre: Action
 
@@ -19,7 +23,3 @@ Because the game has several obstacles on the stage and can be played in two dif
 <center> <img src="/img/portfolio/jump-away-gameplay.gif"/> </center>
 
 With Jump Away, our team won the **Gold Prize (1st Place) in the 2nd School (Sunrin Internet High School) Hackathon, Game Application Field**.
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4myoco8XCLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>

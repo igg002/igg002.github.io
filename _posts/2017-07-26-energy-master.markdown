@@ -7,10 +7,14 @@ image: "img/portfolio/energy-master-title-1-blur.jpg"
 date:   2017-07-26 09:58:34
 ---
 
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/N0p7SaJaXVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ##### Role: Co-Director, Game Designer / Programmer
 ##### Genre: Strategy
 
-### Background
+#### Background
 
 Global warming is one of the biggest problems that humankind is facing today. Since the mid-20th century, the increase in CO2 emissions has caused problems such as sea level rise and desertification on Earth. Our team developed this game to inform the environmental damage caused by the indiscreet use of fossil fuel.
 
@@ -26,9 +30,3 @@ Instead of handcrafting a single stage, we developed a procedural generation sys
 <center> <img src="/img/portfolio/em-generation.gif"/> </center>
 
 With Energy Master, our team won the **Gold Prize (1st Place) in the 3rd School (Sunrin Internet High School) Hackathon Game Application Field and the President Award (1st Place) in the 8th Sogang University MTEC National High School Student Game Application Competition**.
-
-<br>
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N0p7SaJaXVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
