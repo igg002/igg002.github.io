@@ -1,37 +1,7 @@
-# site settings
-title: Sun.
-subtitle: Jeong
-email: sunwoo.jeong00@gmail.com
-description: An undergraduate student studying game innovation at RPI.
-baseurl: "" # the subpath of your site, e.g. /blog
+# Site settings
+title: sunwoo.
+description: Sunwoo Jeong Portfolio
+keywords: Creative, Original, Autonomous
+author: Sunwoo Jeong
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-author:
-street_address: 
-city: 
-state: 
-zip_code: 
-country: 
-phone: (518) 334-5424
-
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 5
-
-# social settings
-500px_url:
-facebook_url:
-github_url: https://github.com/igg002
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: https://www.linkedin.com/in/andysj00
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/sun_jeong00
-
-# build settings
-markdown: kramdown
-include: ['pages']
-
-sass:
-  style: compressed
