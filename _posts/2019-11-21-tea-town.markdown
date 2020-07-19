@@ -4,7 +4,7 @@ subtitle: "Video Game"
 author: "Sunwoo Jeong"
 avatar: "img/authors/sunwoo.png"
 image: "img/portfolio/tt1.png"
-date:   2020-11-21 00:00:00
+date:   2019-11-21 00:00:00
 ---
 
 <center> 
