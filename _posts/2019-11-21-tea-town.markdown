@@ -31,4 +31,5 @@ Freedom, exploration, and uniqueness. The game is mainly about exploring the pos
 
 ### Links
 **[Link to downloadable demo](https://sunjeong.itch.io/tea-town)**
+
 **[Link to playable web demo](https://sunjeong.itch.io/tea-town-web)**
