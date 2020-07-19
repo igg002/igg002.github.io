@@ -10,9 +10,8 @@ date:   2016-09-13 20:55:39
 <div class="video-responsive">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/oUEHRNd2Uew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p><small>VR Gameplay</small></p>
-    <br>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/58ZwJWaBPCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p><small>Somewhat Laggy AR Gameplay</small></p>
+    <p><small>AR Gameplay</small></p>
 </div>
 
 ##### Role: Co-Director, Programmer
