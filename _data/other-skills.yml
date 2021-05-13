@@ -1,7 +1,3 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Game Design
+  percentage: 80
   color: info
-
-- name: Adobe Illustrator
-  percentage: 90
-  color: success

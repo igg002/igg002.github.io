@@ -1,11 +1,23 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
+- name: Unity
+  percentage: 95
+  color: 
 
-- name: Go
-  percentage: 80
-  color:
+- name: C#
+  percentage: 90
+  color: 
 
 - name: Python
-  percentage: 70
+  percentage: 90
+  color: success
+
+- name: Deep Learning
+  percentage: 80
+  color: success
+
+- name: Generative Models
+  percentage: 80
+  color: success
+
+- name: C++
+  percentage: 80
   color: secondary
