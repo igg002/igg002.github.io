@@ -5,7 +5,7 @@ image: /img/projects/thumbnails/jump-away-tn.jpg
 description: PC sidescroller racing game.
 ---
 
-<div class="video-responsive">
+<div class="video">
     <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/4myoco8XCLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> <br>
 
