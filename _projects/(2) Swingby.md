@@ -1,7 +1,7 @@
 ---
 name: Swingby
 tools: [Unity, C#]
-image: /assets/img/projects/thumbnails/swingby-tn.png
+image: /assets/img/projects/thumbnails/swingby-tn.gif
 description: # PC space probe simulator.
 ---
 
