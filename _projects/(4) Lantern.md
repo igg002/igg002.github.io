@@ -19,6 +19,7 @@ description: # Top-down post-apocalyptic shooter
 Lantern is a top-down shooter game about a boy surviving in a deserted and devastated city, fighting against zombies. The boy, who has no place to depend on, embarks on a journey to brighten the city, just like a lantern does.
 
 <center> <img src="/assets/img/projects/reg/lantern-concept.jpg"/> </center>
+<br>
 
 #### Turret & Upgrade System
 The player must upgrade the turrets and act strategically to handle the increasingly powerful zombie waves. If the player focuses on a single direction only, the turrets in the other directions will be destroyed. Every time the player kills a zombie, they gain money. Using the obtained money, the player can upgrade health, ammo capacity, turret damage, and gun damage.
