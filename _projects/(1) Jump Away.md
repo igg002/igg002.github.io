@@ -2,7 +2,7 @@
 name: Jump Away
 tools: [Unity, C#]
 image: /assets/img/projects/thumbnails/jump-away-tn.jpg
-description: PC side-scroller racing game.
+description: PC platformer racing game.
 ---
 
 <div class="video">
@@ -12,9 +12,9 @@ description: PC side-scroller racing game.
 ##### Role: Co-Director, Game Programmer / Designer
 ##### Date: 2016.07
 
-Jump Away is a two-player side-scroller racing game. The players can attack and push each other away to hinder each other from collecting coins or reaching the endpoint. When a player reaches the end point, the person with more coin wins.
+<br>
 
-<center> <img src="/assets/img/projects/reg/jump-away-fight.jpg"/> </center>
+Jump Away is a two-player competitive platformer racing game. The players can attack and push the opponent to hinder each other from collecting coins or from reaching the endpoint. When a player reaches the end point, the person with more coin wins.
 
 <center> <img src="/assets/img/projects/reg/jump-away-gameplay.gif"/> </center>
 
