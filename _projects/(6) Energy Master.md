@@ -1,6 +1,6 @@
 ---
 name: Energy Master
-tools: [Unity, C#]
+tools: [Unity, C#, Procedural Generation]
 image: /assets/img/projects/thumbnails/energy-master-tn.jpg
 description: Energy management simulation game.
 ---
