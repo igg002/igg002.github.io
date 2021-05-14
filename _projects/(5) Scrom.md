@@ -7,7 +7,7 @@ description: # Online scrum board
 
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/081DmFpT7Ic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> <br>
+</div>
 
 ##### Role: Director, Programmer
 ##### Date: 2016.12

@@ -2,16 +2,17 @@
 name: Energy Master
 tools: [Unity, C#, Procedural Generation]
 image: /assets/img/projects/thumbnails/energy-master-tn.jpg
-description: Energy management simulation game.
+description: # Energy management simulation game
 ---
 
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/N0p7SaJaXVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> <br>
+</div>
 
 ##### Role: Co-Director, Game Designer / Programmer
 ##### Genre: Strategy
 ##### Date: 2017.07
+<br>
 
 #### Background
 
@@ -24,6 +25,7 @@ Energy Master is a strategy game in which the player builds power stations to in
 <center> <img src="/assets/img/projects/reg/energy-master-gameplay.gif"/> </center>
 
 #### Procedurally Generated Environment
+
 Instead of handcrafting a single stage, we developed a procedural generation system to prevent repetitive gameplay. The system creates the game stage using a custom cellular automata model. And to determine the wind velocity, solar radiation, and reserve value of each tile, we used 2D perlin noise for natural distribution.
 
 <center> <img src="/assets/img/projects/reg/energy-master-generation.gif"/> </center>
