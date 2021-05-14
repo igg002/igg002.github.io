@@ -14,5 +14,6 @@ description: AR 3D space painting application powered by tango.
 </div> <br>
 
 ##### Role: Co-Director, Programmer
+##### Date: 2016.09
 
 Tango brush is an AR app that allows users to draw 3D paintings in both virtual spaces and in real space.

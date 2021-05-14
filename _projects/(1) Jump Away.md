@@ -10,7 +10,7 @@ description: PC side-scroller racing game.
 </div> <br>
 
 ##### Role: Co-Director, Game Programmer / Designer
-##### Genre: Action, Racing
+##### Date: 2016.06
 
 Jump Away is a two-player side-scroller racing game. The players can attack and push each other away to hinder each other from collecting coins or reaching the endpoint. When a player reaches the end point, the person with more coin wins.
 

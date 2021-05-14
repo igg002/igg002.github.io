@@ -10,6 +10,7 @@ description: PC space probe simulator.
 </div> <br>
 
 ##### Role: Co-Director, Game Programmer / Designer
+##### Date: 2016.08
 
 Swingby is a space simulation game in which the player gets to control a space probe. The game eliminates the slow-paced gameplay of simulation games and encourages players to act strategically and flexibly.
 
