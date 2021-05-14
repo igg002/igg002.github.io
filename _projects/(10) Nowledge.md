@@ -2,15 +2,16 @@
 name: Nowledge
 tools: [Android, Java]
 image: /assets/img/projects/thumbnails/nowledge-tn.gif
-description: News app for Android.
+description: # News app for Android
 ---
 
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hf_DErz0dwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> <br>
+</div>
 
 ##### Role: Director, Programmer
 ##### Date: 2018.07
+<br>
 
 #### Background
 

@@ -2,12 +2,12 @@
 name: Dotter
 tools: [Java]
 image: /assets/img/projects/thumbnails/dotter-tn.gif
-description: Cross-platform painting application.
+description: # Cross-platform painting application
 ---
 
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/46TSXghiENc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> <br>
+</div>
 
 ##### Role: Director, Programmer
 ##### Date: 2017.12

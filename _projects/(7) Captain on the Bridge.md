@@ -21,11 +21,13 @@ I'm a big fan of Star Trek, a famous Sci-fi TV series. Watching the spaceship En
 <center> <img src="/assets/img/projects/reg/star-trek.jpg" width="420" height="236"/> </center>
 
 Captain on the Bridge is a game in which the player becomes the captain of the ship. The goal is to survive the attack of enemy ships. The weapon system of the enemy ship is controlled by an AI trained on the data played by a human player. The player must play the game with strategic moves and judgments.
+
 <br>
 
 #### AI System with Deep Learning
 
 Instead of using a rule-based AI system, The weapon targeting system of both the enemy ship and the player's ship is controlled by a trained AI based on the data played by a human.
+
 <br>
 
 #### Fully Physics-Based Enemy Guidance System
