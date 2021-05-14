@@ -2,7 +2,7 @@
 name: Jump Away
 tools: [Unity, C#]
 image: /assets/img/projects/thumbnails/jump-away-tn.jpg
-description: PC platformer racing game.
+description: # PC platformer racing game
 ---
 
 <div class="video">
@@ -12,7 +12,6 @@ description: PC platformer racing game.
 ##### Role: Co-Director, Game Programmer / Designer
 ##### Date: 2016.07
 
-<br>
 
 Jump Away is a two-player competitive platformer racing game. The players can attack and push the opponent to hinder each other from collecting coins or from reaching the endpoint. When a player reaches the end point, the person with more coin wins.
 
@@ -20,4 +19,4 @@ Jump Away is a two-player competitive platformer racing game. The players can at
 
 #### Awards
 
-Jump Away won the **Gold Prize (1st Place) in the 2nd Annual School (Sunrin Internet High School) Hackathon**.
+Jump Away won the **Gold Prize (1st Place) in the 2nd Annual Sunrin Internet High School Hackathon**.
