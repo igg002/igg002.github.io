@@ -1,8 +1,8 @@
 ---
 name: Scrom
 tools: [HTML, CSS, JavaScript]
-image: /assets/img/projects/thumbnails/scrom-tn.gif
-description: Online scrum board.
+image: /assets/img/projects/thumbnails/scrom-tn.png
+description: # Online scrum board
 ---
 
 <div class="video">
@@ -11,6 +11,7 @@ description: Online scrum board.
 
 ##### Role: Director, Programmer
 ##### Date: 2016.12
+<br>
 
 #### Background
 

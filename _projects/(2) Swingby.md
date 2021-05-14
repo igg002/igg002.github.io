@@ -2,15 +2,18 @@
 name: Swingby
 tools: [Unity, C#]
 image: /assets/img/projects/thumbnails/swingby-tn.gif
-description: # PC space probe simulator.
+description: # PC space probe simulator
 ---
 
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/axUCr8059Tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### Role: Co-Director, Game Programmer / Designer
-#### Date: 2016.08
+##### Role: Co-Director, Game Programmer / Designer
+##### Date: 2016.08
+<br>
+
+#### Description
 
 Swingby is a space simulation game in which the player gets to control a space probe. The game eliminates the slow-paced gameplay of simulation games and encourages players to act strategically and flexibly.
 
