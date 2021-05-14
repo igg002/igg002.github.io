@@ -32,4 +32,4 @@ Instead of handcrafting a single stage, we developed a procedural generation sys
 
 #### Awards
 
-Energy Master won the **Gold Prize (1st Place) in the 3rd Annual Sunrin Internet High School Hackathon and the Grand Prize (1st Place) in the 8th Sogang University MTEC National High School Game Competition**.
+Energy Master won the **Gold Prize (1st Place) in the 3rd Annual Sunrin Internet High School Hackathon and the Grand Prize (1st Place) in the 8th Annual Sogang University MTEC National High School Game Competition**.
