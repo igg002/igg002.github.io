@@ -6,6 +6,7 @@ description: A simple ML-powered search engine.
 ---
 
 ##### Role: Product Designer, Machine Learning Engineer
+##### Date: 2017.11
 
 #### Related Search Recommendation
 My role in this project was to make a system that recommends related keywords with what the user searched for. For example, when the user searches for "coat," the system will recommend keywords like "single, long, short, trench."
