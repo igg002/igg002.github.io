@@ -24,10 +24,12 @@ Since I was a child, my dream was to travel the universe and to boldly go where 
 
 #### Designing the Game
 The design goal of the project was to make a game that is different from typical mobile games and make it as innovative and experimental as we can. Usual mobile games are small in scale (compared to PC games), consist of repetitive gameplay, and quantitates success using scores. I wanted to break these general rules of mobile games.
+
 <br>
 
 #### What is Outites?
 Outites is a game where the player becomes the explorer, discovers unknown planets, and transforms the planet using resources.
+
 <br>
 
 #### Procedurally Generated Planets
@@ -37,6 +39,7 @@ We wanted the player to have a new experience every time they discovered a new p
 <img src="/assets/img/projects/reg/outites-generation.gif"/>
 <p><small>Planets being generated</small></p>
 </center>
+<br>
 
 #### Collecting Resources
 In the process of mining (deforming the planet), the player can obtain underground mineral resources such as stones, gold, copper, and iron. The mining probabilities are unique to each world. 
