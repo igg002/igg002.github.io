@@ -2,7 +2,7 @@
 name: Safehouse
 tools: [Game Design]
 image: /assets/img/projects/thumbnails/safehouse-tn.jpg
-description: Educational board game in honor of the 170th anniversary of Harriet Tubman’s escape from slavery.
+description: Educational board game designed to honor the 170th anniversary of Harriet Tubman’s escape from slavery.
 ---
 
 <center> <img src="/assets/img/projects/reg/safehouse.jpg"/> </center>
