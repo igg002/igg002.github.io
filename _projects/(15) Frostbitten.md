@@ -1,0 +1,21 @@
+---
+name: Frostbitten
+tools: [Unity, C#, AI, Animation]
+image: /assets/img/projects/thumbnails/frostbitten-animated-tn.gif
+description: # Co-op top-down shooter.
+---
+
+<!-- Gameplay Video Demo -->
+<div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zG8j_wYU2io?controls=0;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<!-- Role -->
+##### Role: Lead Programmer, Game Designer
+##### Date: 2020.10
+<br>
+
+<!-- General Description -->
+Single-screen 2P co-op where players have to formulate vaccines, while defending themselves from the infinitely spawning zombies in this abandoned place.
+
+<!-- Features -->
