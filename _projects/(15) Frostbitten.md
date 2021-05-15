@@ -21,5 +21,5 @@ Single-screen 2P co-op where players have to formulate vaccines, while defending
 <!-- Features -->
 #### Character IK
 <div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fOtEoCVqTTw?controls=0&loop=1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fOtEoCVqTTw?autoplay=1&controls=0&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
