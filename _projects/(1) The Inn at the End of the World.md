@@ -17,7 +17,7 @@ description: # A relaxing hospitality sim set in a quiet apocalypse.
 
 <!-- General Description -->
 #### A Quiet Apocalypse
-Inspired by games such as The Stillness of the Wind and Ori and the Blind Forest, the setting of The Inn at the End of the World is after the end of human civilization (as we know it), but there aren’t zombies, aliens, or bloodthirsty raiders. Things are just quiet and empty where the player is, as the ruins of humanity’s zenith slowly rust. 
+Inspired by games such as *The Stillness of the Wind* and *Ori and the Blind Forest*, the setting of *The Inn at the End of the World* is after the end of human civilization (as we know it), but there aren’t zombies, aliens, or bloodthirsty raiders. Things are just quiet and empty where the player is, as the ruins of humanity’s zenith slowly rust. 
 
 <br>
 
