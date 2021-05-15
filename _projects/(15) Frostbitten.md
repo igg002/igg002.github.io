@@ -7,7 +7,7 @@ description: # Co-op top-down shooter.
 
 <!-- Gameplay Video Demo -->
 <div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/zG8j_wYU2io?controls=0;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zG8j_wYU2io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <!-- Role -->
@@ -19,3 +19,7 @@ description: # Co-op top-down shooter.
 Single-screen 2P co-op where players have to formulate vaccines, while defending themselves from the infinitely spawning zombies in this abandoned place.
 
 <!-- Features -->
+#### Character IK
+<div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fOtEoCVqTTw?controls=0&loop=1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
