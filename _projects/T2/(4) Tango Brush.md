@@ -1,8 +1,8 @@
 ---
 name: Tango Brush
 tools: [Unity, C#, AR, Google Tango]
-image: /assets/img/projects/thumbnails/tango-brush-tn.png  # One static thumbnail and one animated thumbnail.
-description: 2016  # AR 3D space painting application developed for Google's Tango platform.
+image: /assets/img/projects/thumbnails/tango-brush-animated-tn.gif  # One static thumbnail and one animated thumbnail.
+description: # 2016  # AR 3D space painting application developed for Google's Tango platform.
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->
@@ -19,6 +19,7 @@ description: 2016  # AR 3D space painting application developed for Google's Tan
 <!-- Detailed Role & Date -->
 ##### Date: 2016.09
 ##### Role: Co-Director, Programmer
+
 As a co-director and the sole programmer, I was responsible for the overall vision of the project and technical implementation using Unity with C#.
 
 <br>
@@ -40,7 +41,7 @@ At the time I was developing this application, most of the popular VR painting a
 
 #### Audio-Reactive Brush
 
-<center> <img src="/assets/img/projects/reg/tango-brush-audio-reactive.gif"/> </center>
+<center> <img src="/assets/img/projects/thumbnails/tango-brush-animated-tn.gif"/> </center>
 
 In addition to normal brushes, Tango Brush also has audio-reactive brushes, allowing the player to give interesting variations to their drawings.
 
