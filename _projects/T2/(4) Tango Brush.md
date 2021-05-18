@@ -44,6 +44,4 @@ At the time I was developing this application, most of the popular VR painting a
 
 In addition to normal brushes, Tango Brush also has audio-reactive brushes, allowing the player to give interesting variations to their drawings.
 
-<br>
-
 <!-- Miscellaneous (e.g. Awards & Links) -->
