@@ -28,11 +28,11 @@ As a gameplay programmer, I programmed the following features of the game:
 <!-- Abstract / About -->
 #### About
 
-##### A Quiet Apocalypse
+###### A Quiet Apocalypse
 
 Inspired by games such as *The Stillness of the Wind* and *Ori and the Blind Forest*, the setting of *The Inn at the End of the World* is after the end of human civilization (as we know it), but there aren’t zombies, aliens, or bloodthirsty raiders. Things are just quiet and empty where the player is, as the ruins of humanity’s zenith slowly rust.
 
-##### Rebuilding instead of Destroying
+###### Rebuilding instead of Destroying
 
 In a desolate space, the goal of the main character is to find human connection. The characters in this game should thus be deeply developed and enticing to interact with for players. The other main goal of the player is building up their inn, allowing it to host more guests. In addition, they need to find better meals for guests and unique materials to allow navigation through the world. 
 
@@ -45,7 +45,7 @@ This game has a stronger emphasis on peacefulness than most post-apocalyptic gam
 <br>
 
 <!-- Technical Features & Challenges & Highlights -->
-#### Dialogue Conversion Workflow
+#### The Dialogue Conversion Workflow
 
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MswxtzJNzME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -58,7 +58,7 @@ This game has a stronger emphasis on peacefulness than most post-apocalyptic gam
 <p><small>Image of a Spreadsheet Script</small></p>
 </center>
 
-Because our game is a very dialogue-heavy game, it was crucial to create a work environment where our writers, who have relatively less understanding of the game's codebase, could easily and quickly integrate and test the characters' dialogue scripts. As I was responsible for the entire NPC and dialogue part of the game, I had to devise a workflow to handle this problem from the early stage of the project.
+Because our game is a very dialogue-heavy game, it was crucial to create a work environment where our writers, who have relatively less understanding of the game's codebase, could easily and quickly integrate and test the characters' dialogue scripts. As I was responsible for the entire NPC and dialogue part of the game, I had to devise a workflow to handle this problem from the early stage of development.
 
 Since I had already decided on a representation model for the character dialogues, I actively communicated with our team of writers and figured out the features they needed. After understanding the needs of the writers, I created and distributed a spreadsheet form that had the features they needed, along with example scripts and guidelines.
 
@@ -74,4 +74,5 @@ The Inn at the End of the World won **Excellence in Narrative, Excellence in Vis
 <br>
 
 #### Links
+
 **[Link to playable demo](https://lucy-smithers.itch.io/the-inn-at-the-end-of-the-world)**
