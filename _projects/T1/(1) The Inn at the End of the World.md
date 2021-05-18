@@ -28,11 +28,11 @@ As a gameplay programmer, I programmed the following features of the game:
 <!-- Abstract / About -->
 #### About
 
-###### A Quiet Apocalypse
+**A Quiet Apocalypse**
 
 Inspired by games such as *The Stillness of the Wind* and *Ori and the Blind Forest*, the setting of *The Inn at the End of the World* is after the end of human civilization (as we know it), but there aren’t zombies, aliens, or bloodthirsty raiders. Things are just quiet and empty where the player is, as the ruins of humanity’s zenith slowly rust.
 
-###### Rebuilding instead of Destroying
+**Rebuilding instead of Destroying**
 
 In a desolate space, the goal of the main character is to find human connection. The characters in this game should thus be deeply developed and enticing to interact with for players. The other main goal of the player is building up their inn, allowing it to host more guests. In addition, they need to find better meals for guests and unique materials to allow navigation through the world. 
 
