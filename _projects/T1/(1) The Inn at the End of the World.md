@@ -49,8 +49,9 @@ This game has a stronger emphasis on peacefulness than most post-apocalyptic gam
 
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MswxtzJNzME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center> <p><small>The Dialogue Gameplay</small></p> </center>
 </div>
+
+<center> <p><small>The Dialogue Gameplay</small></p> </center>
 
 <center>
 <img src="/assets/img/projects/reg/inn-script-example.png"/>
