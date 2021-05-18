@@ -14,6 +14,8 @@ description: 2016  # AR 3D space painting application developed for Google's Tan
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Tfvb4kDMVFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<br>
+
 <!-- Detailed Role & Date -->
 ##### Date: 2016.09
 ##### Role: Co-Director, Programmer
@@ -40,7 +42,7 @@ At the time I was developing this application, most of the popular VR painting a
 
 <center> <img src="/assets/img/projects/reg/tango-brush-audio-reactive.gif"/> </center>
 
-In addition to normal brushes, Tango Brush also has audio-reactive brushes, allowing the player give interesting variations to their drawings.
+In addition to normal brushes, Tango Brush also has audio-reactive brushes, allowing the player to give interesting variations to their drawings.
 
 <br>
 
