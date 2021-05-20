@@ -1,7 +1,7 @@
 ---
 name: The Inn at the End of the World
 tools: [Unity, C#, AI]
-image: https://imgur.com/a/49Haruc.gif  # One static thumbnail and one animated thumbnail.
+image: https://imgur.com/1Nk26PU.gif  # One static thumbnail and one animated thumbnail.
 description: # 2021  # A relaxing hospitality sim set in a quiet apocalypse.
 ---
 
