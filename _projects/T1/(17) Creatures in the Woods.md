@@ -32,7 +32,7 @@ You are a hunter and after many days out on the field nightfall comes once again
 <br>
 
 <!-- Technical Features & Challenges & Highlights -->
-#### Puzzles using Mesh Deformation
+#### Designing Puzzles that use Mesh Deformation
 
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/uwoyEFmFf7g?playlist=uwoyEFmFf7g&loop=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
