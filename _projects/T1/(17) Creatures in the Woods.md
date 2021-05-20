@@ -1,7 +1,7 @@
 ---
 name: Creatures in the Woods
 tools: [Unreal]
-image: https://imgur.com/gLbDJkq  # One static thumbnail and one animated thumbnail.
+image: https://imgur.com/gLbDJkq.gif  # One static thumbnail and one animated thumbnail.
 description: # 2020  # Single-player puzzle adventure.
 ---
 
@@ -14,7 +14,7 @@ description: # 2020  # Single-player puzzle adventure.
 
 <!-- Detailed Role & Date -->
 ##### Date: 2020.11
-##### Role: Puzzle Gameplay Programmer, Puzzle Level Design
+##### Role: Puzzle Gameplay Programmer, Puzzle Designer
 
 As the puzzle gameplay programmer and puzzle designer, I was responsible for the following tasks:
 * Design physics-based puzzle mechanics and stages.
@@ -35,13 +35,13 @@ You are a hunter and after many days out on the field nightfall comes once again
 #### Puzzles using Mesh Deformation
 
 <div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/uwoyEFmFf7g?loop=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uwoyEFmFf7g?playlist=uwoyEFmFf7g&loop=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <center> <p><small>Puzzles that use Mesh Deformation</small></p> </center>
 
 <div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7kb7bnOa3rg?loop=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7kb7bnOa3rg?playlist=7kb7bnOa3rg&loop=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <center> <p><small>Mesh Deformation Mechanics Prototype</small></p> </center>

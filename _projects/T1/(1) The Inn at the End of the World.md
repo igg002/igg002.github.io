@@ -1,7 +1,7 @@
 ---
 name: The Inn at the End of the World
 tools: [Unity, C#, AI]
-image: /assets/img/projects/thumbnails/inn-animated-tn.gif  # One static thumbnail and one animated thumbnail.
+image: https://imgur.com/a/49Haruc.gif  # One static thumbnail and one animated thumbnail.
 description: # 2021  # A relaxing hospitality sim set in a quiet apocalypse.
 ---
 
@@ -48,14 +48,14 @@ This game has a stronger emphasis on peacefulness than most post-apocalyptic gam
 #### The Dialogue Conversion Workflow
 
 <div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MswxtzJNzME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MswxtzJNzME?playlist=MswxtzJNzME&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <center> <p><small>The Dialogue Gameplay</small></p> </center>
 
 <center>
-<img src="/assets/img/projects/reg/inn-script-example.png"/>
-<p><small>Image of a Spreadsheet Script</small></p>
+    <img src="/assets/img/projects/reg/inn-script-example.png"/>
+    <p><small>Image of a Spreadsheet Script</small></p>
 </center>
 
 Because our game is a very dialogue-heavy game, it was crucial to create a work environment where our writers, who have relatively less understanding of the game's codebase, could easily and quickly integrate and test the characters' dialogue scripts. As I was responsible for the entire NPC and dialogue part of the game, I had to devise a workflow to handle this problem from the early stage of development.
