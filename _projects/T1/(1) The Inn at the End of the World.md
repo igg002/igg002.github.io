@@ -1,7 +1,7 @@
 ---
 name: The Inn at the End of the World
 tools: [Unity, C#, AI]
-image: https://imgur.com/1Nk26PU.gif  # One static thumbnail and one animated thumbnail.
+image: https://i.imgur.com/1Nk26PU.gif  # One static thumbnail and one animated thumbnail locally.
 description: # 2021  # A relaxing hospitality sim set in a quiet apocalypse.
 ---
 
@@ -14,7 +14,7 @@ description: # 2021  # A relaxing hospitality sim set in a quiet apocalypse.
 
 <!-- Detailed Role & Date -->
 ##### Date: 2021.04
-##### Role: Gameplay Programmer
+##### Role: Game Programmer
 
 As a gameplay programmer, I programmed the following features of the game:
 * Overall gameplay flow management, putting everything together.
