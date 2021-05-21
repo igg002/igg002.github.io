@@ -38,11 +38,10 @@ Frostbitten is a single-screen 2P co-op zombie shooter where players have to for
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fOtEoCVqTTw?playlist=fOtEoCVqTTw&loop=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div class="video">
-    <iframe width="322" height="322" src="https://www.youtube.com/embed/ccVLjPPtCsI?playlist=ccVLjPPtCsI&loop=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<center> <p><small>Video demonstrating both IK (look-at and rotation) being applied to the player character's model</small></p> </center>
+<center>
+    <img src="https://i.imgur.com/mEfap6M.gif"/>
+    <p><small>Video demonstrating both IK (look-at and rotation) being applied to the player character's model</small></p>
+</center>
 
 Because Unity's built-in support for humanoid IK could not be applied to the character models created by the artists, I had to create custom IK systems for the player character model. As a result, I created a custom look-at IK solver for handling upper-body aiming animations and a rotation IK solver for realistic lower body rotation according to the upper body's movement.
 
