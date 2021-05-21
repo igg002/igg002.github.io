@@ -28,9 +28,9 @@ As a co-director and the sole programmer, I was responsible for the overall crea
 Since I was a child, my dream was to travel the universe and to boldly go where no one has gone before. Planets full of wonder, mysterious alien creatures, and breathtaking civilizations. I wanted to express these beautiful and charming experience of exploration as a video game.
 
 <center> 
-<img src="/assets/img/projects/reg/syd-mead-1.jpg"/>
-<img src="/assets/img/projects/reg/syd-mead-2.jpg"/>
-<p><small>Concept arts from Syd Mead</small></p>
+    <img src="/assets/img/projects/reg/syd-mead-1.jpg"/>
+    <img src="/assets/img/projects/reg/syd-mead-2.jpg"/>
+    <p><small>Concept arts from Syd Mead</small></p>
 </center>
 
 **Designing the Game**
