@@ -39,14 +39,14 @@ The design goal of the project was to make a game that is different from typical
 
 **What is Outites?**
 
-Outites is a game where the player becomes the explorer, discovers unknown planets, and transforms the planet using resources.
+*Outites* is a game where the player becomes the explorer, discovers unknown planets, and transforms the planet using resources.
 
 <br>
 
 <!-- Technical Features & Challenges & Highlights -->
 #### Procedurally Generated Planets
 
-We wanted the player to have a new experience every time they discovered a new planet. The planet generation system in Outites use 3D simplex noise to create billions of unique planets. Each world has a different combination of resource reserves, topography, colors in the environment, and the placement of natural elements. Using a custom shader, the color of the planet's surface changes dynamically by it's altitude, visually highlighting the planet's topology and depth.
+We wanted the player to have a new experience every time they discovered a new planet. The planet generation system in *Outites* uses 3D simplex noise to create billions of unique planets. Each world has a different combination of resource reserves, topography, colors in the environment, and the placement of natural elements. Using a custom shader, the color of the planet's surface changes dynamically by it's altitude, visually highlighting the planet's topology and depth.
 
 <center>
     <img src="/assets/img/projects/reg/outites-generation.gif"/>
@@ -55,7 +55,7 @@ We wanted the player to have a new experience every time they discovered a new p
 
 <br>
 
-#### Collecting Resources
+#### Collecting Resources and Constructing Buildings
 
 In the process of mining (deforming the planet), the player can obtain underground mineral resources such as stones, gold, copper, and iron. The mining probabilities are unique to each world. 
 
