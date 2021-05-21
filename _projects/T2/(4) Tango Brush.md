@@ -1,7 +1,7 @@
 ---
 name: Tango Brush
 tools: [Unity, C#, AR, Google Tango]
-image: /assets/img/projects/thumbnails/tango-brush-animated-tn.gif  # One static thumbnail and one animated thumbnail.
+image: /assets/img/projects/thumbnails/tango-brush-animated-tn.gif  # One static thumbnail and one animated thumbnail locally.
 description: # 2016  # AR 3D space painting application developed for Google's Tango platform.
 ---
 
@@ -20,7 +20,7 @@ description: # 2016  # AR 3D space painting application developed for Google's T
 ##### Date: 2016.09
 ##### Role: Co-Director, Programmer
 
-As a co-director and the sole programmer, I was responsible for the overall vision of the project and technical implementation using Unity with C#.
+As a co-director and the sole programmer, I was responsible for the overall vision of the project and the entire technical implementation using Unity with C#.
 
 <br>
 
