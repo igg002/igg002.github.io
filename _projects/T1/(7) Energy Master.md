@@ -2,7 +2,7 @@
 name: Energy Master
 tools: [Unity, C#, Procedural Generation]
 image: https://i.imgur.com/gSNFjTl.gif  # One static thumbnail and one animated thumbnail locally.
-description: # 2017  # Energy management city-building simulation
+description: # 2017  # Energy management city-building simulation.
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->
