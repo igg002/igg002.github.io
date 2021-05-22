@@ -17,7 +17,7 @@ description: # 2020  # Fast-paced touch-based arcade minigame mash.
 ##### Role: Lead Programmer, Game Designer
 
 As the lead programmer and game designer, I was responsible for the following tasks:
-* Designing and programming three out of four minigames (virus toss, ninja, and wash) that made it to the game.
+* Designing and programming three out of four minigames (virus toss, ninja, and wash).
 * Implementing corruption effects such as glitch shaders and dynamic game speed shifting.
 * Designing and implementing the overall minigame instantiating and progress tracking structure.
 
