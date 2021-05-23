@@ -23,7 +23,9 @@ As the director and the sole programmer, I was responsible for the overall desig
 <!-- Abstract / About -->
 #### About
 
-<center> <img src="https://i.imgur.com/cZI6jAq.jpg"/> </center>
+<center>
+    <img src="https://i.imgur.com/cZI6jAq.jpg"/>
+</center>
 
 *Nowledge* allows users to enjoy articles that suit their tastes and interests, helping them develop interdisciplinary thinking through reading articles from various fields. The app provides features such as displaying top headline news, searching for articles with specific keywords and queries, saving articles to their read-later-list, and subscribing to specific news providers.
 
