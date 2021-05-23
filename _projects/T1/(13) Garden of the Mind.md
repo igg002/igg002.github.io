@@ -2,7 +2,7 @@
 name: Garden of the Mind
 tools: [Unity, C#, Procedural Generation]
 image: https://i.imgur.com/iPVDBKz.gif  # One static thumbnail and one animated thumbnail locally.
-description: # 2019  # Experimental procedural vegetation generation project.
+description: Experimental procedural vegetation generation project.  # 2019
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->
@@ -11,8 +11,8 @@ description: # 2019  # Experimental procedural vegetation generation project.
 </div>
 
 <center> 
-    <img src="/assets/img/projects/reg/gom-1.png"/>
-    <img src="/assets/img/projects/reg/gom-2.png"/>
+    <img src="https://i.imgur.com/aXv0UrX.jpg"/>
+    <img src="https://i.imgur.com/o8BE1hT.jpg"/>
 </center>
 
 <br>

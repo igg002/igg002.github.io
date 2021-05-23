@@ -2,7 +2,7 @@
 name: Creatures in the Woods
 tools: [Unreal]
 image: https://i.imgur.com/gLbDJkq.gif  # One static thumbnail and one animated thumbnail locally.
-description: # 2020  # Single-player puzzle adventure.
+description: Single-player puzzle adventure.  # 2020
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->

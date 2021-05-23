@@ -2,7 +2,7 @@
 name: The Inn at the End of the World
 tools: [Unity, C#, AI]
 image: https://i.imgur.com/1Nk26PU.gif  # One static thumbnail and one animated thumbnail locally.
-description: # 2021  # A relaxing hospitality sim set in a quiet apocalypse.
+description: A relaxing hospitality sim set in a quiet apocalypse.  # 2021
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->
@@ -51,10 +51,12 @@ This game has a stronger emphasis on peacefulness than most post-apocalyptic gam
     <iframe width="560" height="315" src="https://www.youtube.com/embed/MswxtzJNzME?playlist=MswxtzJNzME&loop=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<center> <p><small>The Dialogue Gameplay</small></p> </center>
+<center>
+    <p><small>The Dialogue Gameplay</small></p>
+</center>
 
 <center>
-    <img src="/assets/img/projects/reg/inn-script-example.png"/>
+    <img src="https://i.imgur.com/JiUPDJg.jpg"/>
     <p><small>Image of a Spreadsheet Script</small></p>
 </center>
 

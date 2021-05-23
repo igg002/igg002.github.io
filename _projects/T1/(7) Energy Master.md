@@ -2,7 +2,7 @@
 name: Energy Master
 tools: [Unity, C#, Procedural Generation]
 image: https://i.imgur.com/gSNFjTl.gif  # One static thumbnail and one animated thumbnail locally.
-description: # 2017  # Energy management city-building simulation.
+description: Energy management city-building simulation.  # 2017
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->
@@ -27,20 +27,26 @@ As a co-director and the sole programmer, I was responsible for the overall crea
 
 Global warming is one of the biggest problems that humanity is facing today. Since the mid-20th century, the increase in CO2 emissions has caused problems such as sea level rise and desertification on Earth. Our team developed this game to inform the environmental damage caused by the indiscreet use of fossil fuel.
 
-<center> <img src="/assets/img/projects/reg/fossil-fuel.jpg"/> </center>
+<center>
+    <img src="/assets/img/projects/reg/fossil-fuel.jpg"/>
+</center>
 
 **The Design of Energy Master**
 
 *Energy Master* is a strategy game in which the player builds power stations to increase the score. The player must increase the population to increase the score while producing sufficient energy proportional to the population. Players must balance the construction of environmentally friendly but less energy-efficient energy power stations with energy-efficient non-renewable energy power stations that destroy the environment. The higher the percentage of renewable energy power stations in the total construction, the higher the score, and vice versa.
 
-<center> <img src="https://i.imgur.com/gSNFjTl.gif"/> </center>
+<center>
+    <img src="https://i.imgur.com/gSNFjTl.gif"/>
+</center>
 
 <br>
 
 <!-- Technical Features & Challenges & Highlights -->
 #### Procedurally Generated Environment
 
-<center> <img src="https://i.imgur.com/FdlL9rX.gif"/> </center>
+<center>
+    <img src="https://i.imgur.com/FdlL9rX.gif"/>
+</center>
 
 Instead of handcrafting a single stage, we developed a procedural generation system to prevent repetitive gameplay. The system creates the game stage using a custom cellular automata model. And to determine the wind velocity, solar radiation, and reserve value of each tile, we used 2D perlin noise for natural-feeling numeric distribution.
 

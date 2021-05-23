@@ -2,7 +2,7 @@
 name: Frostbitten
 tools: [Unity, C#, Animation, AI]
 image: https://i.imgur.com/Brkv0vr.gif  # One static thumbnail and one animated thumbnail locally.
-description: # 2020  # Top-down co-op zombie shooter.
+description: Top-down co-op zombie shooter.  # 2020
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->

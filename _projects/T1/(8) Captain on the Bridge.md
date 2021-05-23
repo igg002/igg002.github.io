@@ -2,7 +2,7 @@
 name: Captain on the Bridge
 tools: [Unity, C#, Deep Learning, AI]
 image: https://i.imgur.com/1O8n9nQ.gif  # One static thumbnail and one animated thumbnail locally.
-description: # 2017  # Experimental top-down space shooter.
+description: Experimental top-down space shooter.  # 2017
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->

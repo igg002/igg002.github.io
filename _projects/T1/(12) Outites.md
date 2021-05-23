@@ -2,7 +2,7 @@
 name: Outites
 tools: [Unity, C#, Procedural Generation]
 image: https://i.imgur.com/VigYfW2.jpg  # One static thumbnail and one animated thumbnail locally.
-description: # 2018  # Procedurally generated planet colonization simulation.
+description: Procedurally generated planet colonization simulation.  # 2018
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->
@@ -49,7 +49,7 @@ The design goal of the project was to make a game that is different from typical
 We wanted the player to have a new experience every time they discovered a new planet. The planet generation system in *Outites* uses 3D simplex noise to create billions of unique planets. Each world has a different combination of resource reserves, topography, colors in the environment, and the placement of natural elements. Using a custom shader, the color of the planet's surface changes dynamically by it's altitude, visually highlighting the planet's topology and depth.
 
 <center>
-    <img src="/assets/img/projects/reg/outites-generation.gif"/>
+    <img src="https://i.imgur.com/S75rFEA.gif"/>
     <p><small>Planets being generated</small></p>
 </center>
 
@@ -60,14 +60,14 @@ We wanted the player to have a new experience every time they discovered a new p
 In the process of mining (deforming the planet), the player can obtain underground mineral resources such as stones, gold, copper, and iron. The mining probabilities are unique to each world. 
 
 <center>
-    <img src="/assets/img/projects/reg/outites-mining.gif"/>
+    <img src="https://i.imgur.com/7t47Z31.gif"/>
     <p><small>Mining</small></p>
 </center>
 
 With the collected resources, players can construct buildings. Each building generates resources at a certain time, with the rate being determined by the fertility of the planet and the degree of wind blowing.
 
 <center>
-    <img src="/assets/img/projects/reg/outites-construction.gif"/>
+    <img src="https://i.imgur.com/PIkm8UW.gif"/>
     <p><small>Constructing buildings</small></p>
 </center>
 
