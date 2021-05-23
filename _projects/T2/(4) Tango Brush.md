@@ -1,7 +1,7 @@
 ---
 name: Tango Brush
 tools: [Unity, C#, AR, Google Tango]
-image: /assets/img/projects/thumbnails/tango-brush-animated-tn.gif  # One static thumbnail and one animated thumbnail locally.
+image: https://i.imgur.com/2biPcWH.gif  # One static thumbnail and one animated thumbnail locally.
 description: # 2016  # AR 3D space painting application developed for Google's Tango platform.
 ---
 
@@ -26,6 +26,7 @@ As a co-director and the sole programmer, I was responsible for the overall visi
 
 <!-- Abstract / About -->
 #### About
+
 Built for Google's Tango platform, Tango brush is an AR app that provides painting tools for the user to draw 3D paintings in both virtual spaces (VR mode) and in real space (AR mode). This app was built during the TrendX VR/AR hackathon that took place in 2016.
 
 <br>
