@@ -2,7 +2,7 @@
 name: Nowledge
 tools: [Android, Java]
 image: https://i.imgur.com/QKhtWBQ.gif  # One static thumbnail and one animated thumbnail locally.
-description: # 2018  # News app for Android.
+description: News app for Android.  # 2018
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->

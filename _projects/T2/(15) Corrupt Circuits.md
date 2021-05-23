@@ -2,7 +2,7 @@
 name: Corrupt Circuits
 tools: [Godot, Shader]
 image: https://i.imgur.com/B0QU4VM.gif  # One static thumbnail and one animated thumbnail locally.
-description: # 2020  # Fast-paced touch-based arcade minigame mash.
+description: Fast-paced touch-based arcade minigame mash.  # 2020
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->

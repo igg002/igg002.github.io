@@ -2,7 +2,7 @@
 name: Dotter
 tools: [Java, Tools Programming]
 image: https://i.imgur.com/ajZlDr6.gif  # One static thumbnail and one animated thumbnail locally.
-description: # 2017  # Cross-platform painting application.
+description: Cross-platform painting application.  # 2017
 ---
 
 <!-- Tech Demo (e.g. Video & Images) -->
