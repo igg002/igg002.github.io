@@ -7,8 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-currently studying machine-learning-driven digital entertainment innovation, design, and technology @RPI.
+Hi I am **{{ site.author.name }}** :wave:, currently studying machine-learning-driven digital entertainment innovation, design, and technology @ [RPI](https://rpi.edu/).
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
