@@ -43,6 +43,10 @@ The main topic we selected for designing the game was the “Shifting game board
 
 <br>
 
+<!-- Technical Features & Challenges & Highlights -->
+
+<br>
+
 <!-- Miscellaneous (e.g. Awards & Links) -->
 #### Links
 

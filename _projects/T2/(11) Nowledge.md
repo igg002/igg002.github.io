@@ -1,24 +1,36 @@
 ---
 name: Nowledge
 tools: [Android, Java]
-image: /assets/img/projects/thumbnails/nowledge-tn.gif
-description: # News app for Android
+image: https://i.imgur.com/aq7dPlf.gif  # One static thumbnail and one animated thumbnail locally.
+description: # 2018  # News app for Android.
 ---
 
+<!-- Tech Demo (e.g. Video & Images) -->
 <div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hf_DErz0dwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hf_DErz0dwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-##### Role: Director, Programmer
-##### Date: 2018.07
 <br>
 
-#### Background
+<!-- Detailed Role & Date -->
+##### Date: 2018.07
+##### Role: Director, Programmer
 
-Nowadays, society is changing rapidly and the rate and time for watching news and articles are increasing. As a result, people are demanding higher quality articles and higher credibility. Various rallies, political reforms, and diplomatic relations between countries; People want to get their articles delivered as soon as possible.
+As the director and the sole programmer, I was responsible for the overall design of the app and the entire programming work.
 
-<center> <img src="/assets/img/projects/reg/nowledge.jpg"/> </center>
+<br>
 
-Nowledge is based on the idea of "What if we can enjoy news articles and blog posts lightly?"
+<!-- Abstract / About -->
+#### About
 
-This app allows users to enjoy articles that suit their tastes and interests. Nowledge helps to develop interdisciplinary thinking through reading reports from various fields.
+<center> <img src="https://i.imgur.com/cZI6jAq.jpg"/> </center>
+
+*Nowledge* allows users to enjoy articles that suit their tastes and interests, helping them develop interdisciplinary thinking through reading articles from various fields. The app provides features such as displaying top headline news, searching for articles with specific keywords and queries, saving articles to their read-later-list, and subscribing to specific news providers.
+
+<br>
+
+<!-- Technical Features & Challenges & Highlights -->
+
+<br>
+
+<!-- Miscellaneous (e.g. Awards & Links) -->
