@@ -34,7 +34,7 @@ Built for Google's Tango platform, Tango brush is an AR app that provides painti
 <!-- Technical Features & Challenges & Highlights -->
 #### Supporting Both AR and VR Mode
 
-<center> <img src="/assets/img/projects/reg/mode-split.png"/> </center>
+<center> <img src="https://i.imgur.com/spXGLy1.png"/> </center>
 
 At the time I was developing this application, most of the popular VR painting applications, such as Tilt Brush, only allowed the player to draw in virtual space. Because of that, our team thought that it would be interesting to make a VR application that allows the player to draw in real space. Google's Tango tablet, which had the most accurate device tracking functionality at the time, also had the functionality to reconstruct the surrounding environment in 3D using multiple different cameras embedded within the device. Using this function of the tango tablet, our team developed a mode that allows the player to reconstruct their surrounding environment and create 3D paintings in that reconstructed space.
 
@@ -42,7 +42,7 @@ At the time I was developing this application, most of the popular VR painting a
 
 #### Audio-Reactive Brush
 
-<center> <img src="/assets/img/projects/thumbnails/tango-brush-animated-tn.gif"/> </center>
+<center> <img src="https://i.imgur.com/2biPcWH.gif"/> </center>
 
 In addition to normal brushes, Tango Brush also has audio-reactive brushes, allowing the player to give interesting variations to their drawings.
 
