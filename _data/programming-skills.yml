@@ -11,11 +11,11 @@
   color: success
 
 - name: Deep Learning
-  percentage: 80
+  percentage: 90
   color: success
 
 - name: Generative Models
-  percentage: 80
+  percentage: 90
   color: success
 
 - name: C++
