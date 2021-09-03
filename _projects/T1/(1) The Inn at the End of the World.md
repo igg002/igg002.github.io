@@ -71,7 +71,7 @@ With the given spreadsheet format, the writers write scripts according to the fo
 <!-- Miscellaneous (e.g. Awards & Links) -->
 #### Awards
 
-The Inn at the End of the World won **Excellence in Narrative, Excellence in Visual Arts, and Audience Choice Award** at **[RPI Gamefest 2021](https://youtu.be/JOH6hWiT_xA)**. The game was also selected as the entry representing our school in the **[2021 Intel University Games Showcase](https://devmesh.intel.com/groups/3030)**.
+The Inn at the End of the World won **Excellence in Narrative, Excellence in Visual Arts, and Audience Choice Award** at **[RPI Gamefest 2021](https://youtu.be/JOH6hWiT_xA)**. The game was also selected as the entry representing our school for the **[2021 Intel University Games Showcase](https://devmesh.intel.com/groups/3030)**.
 
 <br>
 
