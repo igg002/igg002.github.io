@@ -1,8 +1,8 @@
 To be Added:
-1. ML-Shooter
-2. Praxis & Work Experiences
-3. AILCS
-4. Arch Away Projects
-5. Educational Activities (MDL2SR1)
-6. Horizontal Ordering
-7. Updated Skills Page
+1. Horizontal Ordering
+2. Updated Skills Page
+3. ML-Shooter
+4. AILCS
+5. Arch Away Projects
+6. Praxis & Work Experiences
+7. Educational Activities (MDL2SR1)
