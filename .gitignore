@@ -12,4 +12,4 @@ Gemfile.lock
 *.log
 
 # Untracked
-._untracked/
+_untracked/
