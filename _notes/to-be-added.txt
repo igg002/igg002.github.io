@@ -1,7 +1,5 @@
 To be Added:
-1. Updated Skills Page
-2. ML-Shooter
-3. AILCS
-4. Arch Away Projects
-5. Praxis & Work Experiences
-6. Educational Activities (MDL2SR1)
+1. ML-Shooter (Project)
+2. Work Experiences Page
+3. Praxis (Part-Time Work)
+4. Educational Activities (Contract Work; MDL2SR1)
