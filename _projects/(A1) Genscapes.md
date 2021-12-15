@@ -1,6 +1,6 @@
 ---
 name: Genscapes
-tools: [Unity, C#, Deep Learning, Procedural Generation]
+tools: [Unity, C#, Python, Deep Learning, Procedural Generation]
 image: https://i.imgur.com/enT4EDV.gif  # One static thumbnail and one animated thumbnail locally.
 description: A tech demo on AI-powered procedural landscape synthesis.  # 2021
 ---
