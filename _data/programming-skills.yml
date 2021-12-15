@@ -1,23 +1,23 @@
 - name: Unity
-  percentage: 95
-  color: 
+  percentage: 90
+  color: primary
 
 - name: C#
   percentage: 90
-  color: 
+  color: primary
 
 - name: Python
   percentage: 90
   color: success
 
 - name: Deep Learning
-  percentage: 90
+  percentage: 80
   color: success
 
 - name: Generative Models
-  percentage: 90
+  percentage: 80
   color: success
 
 - name: C++
   percentage: 80
-  color: secondary
+  color: danger
