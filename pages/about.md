@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:, currently studying machine-learning-driven digital entertainment innovation, design, and technology @ [RPI](https://rpi.edu/).
+Hi, I am **{{ site.author.name }}** :wave:, currently studying digital entertainment innovation, design, and technology @ [RPI](https://rpi.edu/). I focus on experimenting with emerging technologies such as machine learning to innovate and explore new possibilities for next-gen video games.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

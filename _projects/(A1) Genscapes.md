@@ -38,7 +38,6 @@ The demo features a variety of intuitive methods of exploring the latent space.
 
 <center>
     <img src="https://i.imgur.com/Jx4CpIx.gif"/>
-    <p><small>Image of a Spreadsheet Script</small></p>
 </center>
 
 Pressing run with an empty grid executes random generation, filling the grid with random samples. This is the most basic and straightforward way of retrieving samples.

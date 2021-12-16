@@ -1,5 +1,5 @@
 To be Added:
-1. ML-Shooter (Project)
-2. Work Experiences Page
-3. Praxis (Part-Time Work)
-4. Educational Activities (Contract Work; MDL2SR1)
+1. Work Experiences Page
+2. Praxis (Part-Time Work)
+3. Educational Activities (Contract Work; MDL2SR1)
+4. ML-Shooter (Project)
