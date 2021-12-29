@@ -28,6 +28,12 @@ Project Genscapes is a proof-of-concept tech demo on AI-powered procedural lands
 <br>
 
 <!-- Technical Features & Challenges & Highlights -->
+#### Building the Model
+
+Using multiple publicly available geographic data sources, I created a custom heightmap dataset with more than 200,000 data points from the ground up for this project. To ensure the dataset's quality, an automatic data filtering pipeline using noise estimation was built and used to remove blurry and noisy data. To train the generative heightmap model using this custom dataset, I created and used a modified StyleGAN2 model that supports 16-bit grayscale image training.
+
+<br>
+
 #### Latent Space Exploration
 
 The demo features a variety of intuitive methods of exploring the latent space.
@@ -85,6 +91,33 @@ Blend between two heightmaps using two-point interpolation.
 </center>
 
 The demo currently supports four different visualization presets. Press load and select the heightmap you wish to visualize.
+
+<br>
+
+#### Cancelled Features
+
+##### Projection
+
+<center>
+    <img src="https://i.imgur.com/sIyJRdG.gif"/>
+    <img src="https://i.imgur.com/tite9TF.gif"/>
+    <p><small>Projection</small></p>
+</center>
+
+Iterative projection of a given image to the latent space was implemented and tested at the research stage. However, it couldn't make it to the tech demo due to server implementation issues.
+
+<br>
+
+##### CLIP Guidance
+
+<center>
+    <img src="https://i.imgur.com/sjBv2i0.gif"/>
+    <p><small>Result with the text "Desert Dunes"</small></p>
+    <img src="https://i.imgur.com/lXOnm6Y.gif"/>
+    <p><small>Result with the text "Spikes"</small></p>
+</center>
+
+Using [CLIP](https://openai.com/blog/clip/) and differential rendering, a feature for text-to-heightmap was implemented and tested at the research stage but couldn't make it to the tech demo for the same reason as above.
 
 <br>
 
