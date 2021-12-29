@@ -30,15 +30,17 @@ Project Genscapes is a proof-of-concept tech demo on AI-powered procedural lands
 <!-- Technical Features & Challenges & Highlights -->
 #### Building the Model
 
-Using multiple publicly available geographic data sources, I created a custom heightmap dataset with more than 200,000 data points from the ground up for this project. To ensure the dataset's quality, an automatic data filtering pipeline using noise estimation was built and used to remove blurry and noisy data. To train the generative heightmap model using this custom dataset, I created and used a modified StyleGAN2 model that supports 16-bit grayscale image training.
+Using multiple publicly available geographic data sources, I created a custom heightmap dataset with more than 200,000 data points from the ground up for this project.
+
+To ensure the dataset's quality, an automatic data filtering pipeline using noise estimation was built and used to remove blurry and noisy data.
+
+To train the generative heightmap model using this custom dataset, I created and used a modified StyleGAN2 model that supports 16-bit grayscale image training.
 
 <br>
 
 #### Latent Space Exploration
 
 The demo features a variety of intuitive methods of exploring the latent space.
-
-<br>
 
 ##### Random Generation
 
