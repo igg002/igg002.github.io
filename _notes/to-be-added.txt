@@ -1,4 +1,7 @@
 To be Added:
-1. Praxis (Part-Time Work)
-2. Educational Activities (Contract Work; MDL2SR1)
-3. ML-Shooter (Project)
+1. Work Experience
+    1.1. Praxis (Part-Time Work)
+    1.2. Educational Activities (MDL2SR1)
+2. Projects
+    2.1. ML-Shooter (Project)
+3. Awards & Publications
