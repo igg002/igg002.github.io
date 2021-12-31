@@ -3,16 +3,14 @@ title: Praxis - Software Developer
 tags: [Python, Deep Learning, JavaScript]
 style: 
 color: 
-start: 2020/11
-end: 2021/08
-description: 
+dates: 2020/11 - 2021/08
 ---
 
 <!-- (Optional) Image -->
 
 
 <!-- Title, Organization, Employment Type, and Duration -->
-## Software Developer @ [Praxis](http://prxs.ai/)
+# Software Developer @ [Praxis](http://prxs.ai/)
 
 Part-time; 2020/11 - 2021/08
 
