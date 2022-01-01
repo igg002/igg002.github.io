@@ -1,4 +1,3 @@
 To be Added:
-1. Awards & Publications
-2. Projects
-    2.1. ML-Shooter (Project)
+1. Projects
+    1.1. ML-Shooter (Project)
