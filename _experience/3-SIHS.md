@@ -1,5 +1,5 @@
 ---
-title: SIHS - Instructor
+title: Sunrin Internet HS - Instructor
 tags: [Java, Android]
 style: 
 color: 
@@ -10,7 +10,7 @@ dates: 2019/06 - 2019/07
 
 
 <!-- Title, Organization, Employment Type, and Duration -->
-# Instructor @ [SIHS](https://sunrint.sen.hs.kr/)
+# Instructor @ [Sunrin Internet High School](https://sunrint.sen.hs.kr/)
 
 2019/06 - 2019/07
 

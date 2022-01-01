@@ -57,6 +57,7 @@ collections:
   experience:
     output: true
     permalink: /experience/:name
+  - awards
 
 
 ### Disqus ###
