@@ -1,8 +1,8 @@
 ---
 title: Sunrin Internet HS - Instructor
 tags: [Java, Android]
-style: 
-color: 
+style: fill
+color: light
 dates: 2019/06 - 2019/07
 ---
 

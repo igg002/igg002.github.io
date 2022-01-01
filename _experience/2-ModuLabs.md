@@ -1,8 +1,8 @@
 ---
 title: ModuLabs - Teaching Assistant
 tags: [Python, Deep Learning]
-style: 
-color: 
+style: fill
+color: light
 dates: 2019/05 - 2019/06 & 2020/06
 ---
 

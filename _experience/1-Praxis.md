@@ -1,8 +1,8 @@
 ---
 title: Praxis - Software Developer
 tags: [Python, Deep Learning, JavaScript]
-style: 
-color: 
+style: fill
+color: light
 dates: 2020/11 - 2021/08
 ---
 
