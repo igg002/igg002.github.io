@@ -2,6 +2,8 @@ To be Added:
 1. Projects
     1.1. ML-Shooter (Project)
     1.2. Nominations (Awards)
-    1.3. Safe Space (WIP; Project; Custom GUI, Playables, etc.)
+    1.3. Safe Space (WIP; Project; Event-Based Programming / Extendable Design, Interaction System, Custom Editor GUI, Timeline & Playables + Customization, Cinemachine, Audio, Generic Tools and Utilities, etc.)
     1.4. UESP (WIP; Project)
     1.5. PCG / Game AI / AI for Games (About)
+    1.6. Inn (Project; Dynamic Graph Construction, Extensive Polymorphism Usage)
+    1.7. Genscapes (Project; Fully Responsive UI, Serverless Integration)
