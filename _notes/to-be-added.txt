@@ -1,7 +1,7 @@
 To be Added:
 1. Projects / Awards / About
     1.1. ML-Shooter (Project)
-    1.2. Nominations (Awards)
+    1.2. Nominations / Finalist (Awards)
     1.3. Safe Space (WIP; Project; Event-Based Programming & Systems / Extendable Design & Script Minimization, Interaction System for Faster Development & Iteration (No-Code Design), Custom Editor GUI, Timeline & Playables + Customization, Cinemachine, Audio, Technical Art and Art Direction, Generic Tools and Utilities, etc.)
     1.4. UESP (WIP; Project)
     1.5. PCG / Proceduralism / Gen Sys / Game AI / AI for Games (About)
