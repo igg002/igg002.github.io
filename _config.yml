@@ -54,9 +54,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+    # permalink: /:collection/:name
   experience:
     output: true
     permalink: /experience/:name
+    # permalink: /collection/:name
   awards:
     output: false
 
