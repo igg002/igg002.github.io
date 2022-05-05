@@ -28,6 +28,22 @@ Project Genscapes is a proof-of-concept tech demo on AI-powered procedural lands
 <br>
 
 <!-- Technical Features & Challenges & Highlights -->
+#### Serverless Deployment
+
+Instead of running the model offline, I decided to deploy the model by using cloud service providers. I wrote Python code to receive HTTP requests, handle and process input data, run model inference, and send the results back to the client. I then packed the models and the code into a Docker image and deployed it using AWS Lambda.
+
+<br>
+
+#### Fully Responsive UI
+
+<center>
+    <img src="https://i.imgur.com/nWOeHQs.png"/>
+</center>
+
+Using anchors, pivots, layout groups, etc., I made the UI fully relative and responsive.
+
+<br>
+
 #### Building the Model
 
 Using multiple publicly available geographic data sources, I created a custom heightmap dataset with more than 200,000 data points from the ground up.

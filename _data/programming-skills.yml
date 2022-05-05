@@ -18,6 +18,14 @@
   percentage: 80
   color: success
 
-- name: C++
+- name: Procedural Generation / Generative Sys.
   percentage: 80
   color: danger
+
+- name: Game AI / AI for Games
+  percentage: 80
+  color: danger
+
+- name: C++
+  percentage: 80
+  color: info

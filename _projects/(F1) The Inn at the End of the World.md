@@ -68,10 +68,24 @@ With the given spreadsheet format, the writers write scripts according to the fo
 
 <br>
 
+##### Dialogue System Technical Details 
+
+**Graph-Based Dialogue Model**
+
+The dialogue system uses graph representations.
+
+The above conversion workflow dynamically constructs dialogue graphs on the fly, where nodes contain dialogue data, entry conditions, and events of each dialogue line, and edges are connections to other dialogues.
+
+**Extensive Use of Polymorphism**
+
+To efficiently and intuitively implement various dialogue conditions (e.g., Affinity Check, Score Check, Status Check) and events (e.g., Set Affinity, Leave, Set Link), I used polymorphism where we have a base class for conditions and a base class for events and then define detailed behavior by inheriting from those base classes.
+
+<br>
+
 <!-- Miscellaneous (e.g. Awards & Links) -->
 #### Awards
 
-The Inn at the End of the World won **Excellence in Narrative, Excellence in Visual Arts, and Audience Choice Award** at **[RPI Gamefest 2021](https://youtu.be/JOH6hWiT_xA)**. The game was also selected as the entry representing our school for the **[2021 Intel University Games Showcase](https://devmesh.intel.com/groups/3030)**.
+The Inn at the End of the World won **Excellence in Narrative, Excellence in Visual Arts, and Audience Choice Award** and got nominated for **Grand Prize Award** at **[RPI Gamefest 2021](https://youtu.be/JOH6hWiT_xA)**. The game was also selected as the entry representing our school for the **[2021 Intel University Games Showcase](https://devmesh.intel.com/groups/3030)**.
 
 <br>
 
