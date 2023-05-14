@@ -112,6 +112,16 @@ Besides setting up effects and lighting, one crucial work was writing custom sha
 
 <br>
 
+#### Game Developers Conference (GDC)
+
+<center>
+    <img src="https://i.imgur.com/rvfbZvx.jpg" width="50%"/>
+</center>
+
+Our game was invited to be showcased at GDC 2023 for the New York State's digital game development program pavilion.
+
+<br>
+
 <!-- Miscellaneous (e.g. Awards & Links) -->
 #### Links
 
