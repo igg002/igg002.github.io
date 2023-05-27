@@ -123,6 +123,13 @@ Our game was invited to be showcased at GDC 2023 for the New York State's digita
 <br>
 
 <!-- Miscellaneous (e.g. Awards & Links) -->
+
+#### Awards
+
+Safe Space won the **Excellence in Visual Award** at **[RPI Gamefest 2023](https://gamehub.rpi.edu/gamefest/awards)**.
+
+<br>
+
 #### Links
 
 **[Link to itch page](https://briefjoe.itch.io/safe-space)**
