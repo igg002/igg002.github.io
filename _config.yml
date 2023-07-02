@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Sun Jeong.
 description         : >-
-                      Unity Programmer / Machine Learning Engineer @ LoadComplete
+                      Machine Learning Engineer & Tools Programmer @ LoadComplete
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : igg002/igg002.github.io           # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : igg002/portfolYOU
