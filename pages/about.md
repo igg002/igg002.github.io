@@ -13,9 +13,9 @@ My versatile skill set spans traditional AI techniques to cutting-edge machine l
 
 With my expertise, I deliver exceptional results and create games that leave a lasting impact on players, providing them with unforgettable gaming experiences.
 
-* :office: I currently work at [LoadComplete](https://www.loadcomplete.com/) as a software engineer focusing on ways to integrate machine learning into the studio's game development process.
+* :office: I currently work at [LoadComplete](https://www.loadcomplete.com/) as a machine learning engineer focusing on ways to integrate machine learning into the studio's game development process.
 
-* :school: I'm currently taking a leave of absence from [RPI](https://rpi.edu/), where I'm pursuing an undergraduate degree in digital entertainment innovation, design, and technology.
+* :school: I'm currently taking a leave of absence from [RPI](https://rpi.edu/), where I'm pursuing an undergraduate degree in computer science and games and simulation arts and sciences.
 
 * :video_game: I also love doing indie game development in my spare time!
 

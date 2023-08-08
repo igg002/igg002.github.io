@@ -1,5 +1,5 @@
 ---
-title: LoadComplete - Machine Learning Engineer & Tools Programmer
+title: LoadComplete - Machine Learning Engineer
 tags: [Unity, C#, Python, PyTorch, Deep Learning]
 style: fill
 color: light
@@ -10,7 +10,7 @@ dates: 2022/07 - Present
 
 
 <!-- Title, Organization, Employment Type, and Duration -->
-# Machine Learning Engineer & Tools Programmer @ [LoadComplete](https://www.loadcomplete.com/)
+# Machine Learning Engineer @ [LoadComplete](https://www.loadcomplete.com/)
 
 Full-time; 2022/07 - Present
 

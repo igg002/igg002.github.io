@@ -6,16 +6,12 @@
   percentage: 90
   color: primary
 
-- name: Python
+- name: Machine Learning Engineering
   percentage: 90
   color: success
 
-- name: Deep Learning
-  percentage: 80
-  color: success
-
-- name: Generative Models
-  percentage: 80
+- name: Python
+  percentage: 90
   color: success
 
 - name: Procedural Generation / Generative Sys.
@@ -28,4 +24,8 @@
 
 - name: C++
   percentage: 80
+  color: info
+
+- name: Unreal
+  percentage: 70
   color: info
