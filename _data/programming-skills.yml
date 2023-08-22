@@ -6,26 +6,30 @@
   percentage: 90
   color: primary
 
-- name: Machine Learning Engineering
-  percentage: 90
-  color: success
-
 - name: Python
   percentage: 90
   color: success
 
-- name: Procedural Generation / Generative Sys.
-  percentage: 80
-  color: danger
+- name: PyTorch
+  percentage: 90
+  color: success
 
-- name: Game AI / AI for Games
+- name: AWS / GCP
   percentage: 80
-  color: danger
+  color: success
 
 - name: C++
-  percentage: 80
+  percentage: 70
+  color: info
+
+- name: TensorFlow
+  percentage: 60
   color: info
 
 - name: Unreal
-  percentage: 70
+  percentage: 60
+  color: info
+
+- name: JavaScript
+  percentage: 60
   color: info
