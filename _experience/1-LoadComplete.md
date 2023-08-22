@@ -15,6 +15,8 @@ dates: 2022/07 - Present
 Full-time; 2022/07 - Present
 
 <!-- Work, Responsibilities, and Activities -->
-I am leading the design and development of the MAAP toolkit, an innovative, machine-learning-powered automated playtesting toolkit that is being used in the development process of [*Frame Arms Girl: Dream Stadium*](https://game.dosi.world/promotion/fagirl). The toolkit provides constant, crucial debugging support and allows for the discovery of valuable design insights.
+Currently working at LoadComplete as a developer focusing on ways to build and integrate machine-learning-based solutions into the studio’s game development process.
 
-Tools: Unity, C#, Python, PyTorch, Git, Cloud Computing
+I am leading the design and development of the MAAP toolkit, an innovative, machine-learning-powered playtest automation solution stack that is being used in the production of [*Frame Arms Girl: Dream Stadium*](https://game.dosi.world/promotion/fagirl). The toolkit provides constant, crucial debugging support and allows for the discovery of valuable design insights.
+
+Tools: Unity, C#, Python, PyTorch, Git, AWS / GCP, Deep Reinforcement Learning
