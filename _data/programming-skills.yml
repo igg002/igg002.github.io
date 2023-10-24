@@ -1,3 +1,10 @@
+# Queued Skills
+# 1) gRPC & Protocol Buffers
+# 2) MessagePack
+# 3) ZeroMQ
+# 4) Docker & Docker Swarm
+# 5) Kubernetes
+
 - name: Unity
   percentage: 90
   color: primary
