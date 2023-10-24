@@ -14,16 +14,12 @@
   percentage: 90
   color: success
 
-- name: AWS / GCP
+- name: AWS EC2 / GCP Compute Engine
   percentage: 80
   color: success
 
 - name: C++
   percentage: 70
-  color: info
-
-- name: TensorFlow
-  percentage: 60
   color: info
 
 - name: Unreal
