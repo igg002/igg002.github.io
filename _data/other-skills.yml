@@ -7,7 +7,7 @@
   color: danger
 
 - name: Deep Reinforcement Learning
-  percentage: 80
+  percentage: 90
   color: danger
 
 - name: Generative Models

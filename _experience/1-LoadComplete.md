@@ -1,6 +1,6 @@
 ---
 title: LoadComplete - Machine Learning Engineer
-tags: [Unity, C#, Python, PyTorch, Deep Learning]
+tags: [Unity, C#, Python, PyTorch, Deep Reinforcement Learning]
 style: fill
 color: light
 dates: 2022/07 - Present
