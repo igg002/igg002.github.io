@@ -15,10 +15,12 @@ dates: 2022/07 - Present
 Full-time; 2022/07 - Present
 
 <!-- Work, Responsibilities, and Activities -->
-Currently working at LoadComplete's Applied ML team as a machine learning engineer. My focus lies in building and integrating machine-learning-based solutions into the studio’s game development process.
-- Led the design and development of the machine-learning-powered automated playtesting process for [*Frame Arms Girl: Dream Stadium*](https://game.dosi.world/promotion/fagirl). This involved devising and implementing all of the system components behind this process and also the model's architecture.
-- Designed and implemented the internal solution for building and deploying deep-learning-trained game-playing agents in Unity. This solution was built to address the limitations of the previous solution, featuring improved speed and scalability, better extensibility through a plugin-based architecture, and stronger fault-tolerance measures.
-- Currently implementing ML-based automated playtesting for an upcoming title, and actively experimenting with ideas related to player modeling and game personalization for better user experience and business value creation.
+Currently working at LoadComplete’s Applied ML team as a machine learning engineer, focusing on building and integrating machine-learning-based solutions into the studio’s game development processes.
+
+- Led the design and development of the machine learning-based automated playtesting process for [*Frame Arms Girl: Dream Stadium*](https://game.dosi.world/promotion/fagirl), which greatly contributed to bug discovery and design validation. This involved devising and implementing all of the system components behind this process and the model’s architecture.
+- Designed and implemented the internal solution for building and deploying deep learning-trained game-playing agents in Unity. This solution addressed the limitations of the previous solution by featuring improved speed, scalability, and extensibility through features such as async action retrieval, dynamic batching, a plugin-based architecture, and more robust fault tolerance.
+- Implemented advanced training algorithms and techniques for optimized and more effective model training.
+- Currently developing ML-based automated playtesting for an upcoming title, and actively experimenting with ideas related to player modeling and game personalization to improve user experience and create business value.
 
 ## GDC 2024
 
