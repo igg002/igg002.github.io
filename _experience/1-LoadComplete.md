@@ -24,7 +24,7 @@ Currently working at LoadComplete’s Applied ML team as a machine learning engi
 
 ## GDC 2024
 
-I presented the work on the automated playtesting process for *Frame Arms Girl: Dream Stadium* at GDC 2024 in a talk titled ["Testing Empowered: Integrating ML-Based Playtesting in a Team with Limited QA Capacity"](https://schedule.gdconf.com/session/testing-empowered-integrating-ml-based-playtesting-in-a-team-with-limited-qa-capacity/898710).
+I presented the work on the automated playtesting process for *Frame Arms Girl: Dream Stadium* at GDC 2024 in a talk titled ["Testing Empowered: Integrating ML-Based Playtesting in a Team with Limited QA Capacity"](https://schedule.gdconf.com/session/testing-empowered-integrating-ml-based-playtesting-in-a-team-with-limited-qa-capacity/898710). Recording of the talk can be found [here](https://gdcvault.com/play/1034179/Testing-Empowered-Integrating-ML-Based).
 
 ## Skills
 
