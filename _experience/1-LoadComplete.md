@@ -1,6 +1,6 @@
 ---
 title: LoadComplete - Machine Learning Engineer
-tags: [PyTorch, Python, Unity, C#, Deep Reinforcement Learning]
+tags: [MLOps, Deep Reinforcement Learning, Predictive Modeling]
 style: fill
 color: light
 dates: 2022/07 - Present
@@ -15,12 +15,12 @@ dates: 2022/07 - Present
 Full-time; 2022/07 - Present
 
 <!-- Work, Responsibilities, and Activities -->
-Currently working at LoadComplete’s Applied ML team as a machine learning engineer, focusing on building and integrating machine-learning-based solutions into the studio’s game development processes.
+Machine learning engineer on the Applied ML team, focusing on building and integrating machine learning solutions into the studio's game development and servicing processes.
 
-- Led the design and development of the machine learning-based automated playtesting process for [*Frame Arms Girl: Dream Stadium*](https://game.dosi.world/promotion/fagirl), which greatly contributed to bug discovery and design validation. This involved devising and implementing all of the system components behind this process and the model’s architecture.
+- Led the design and development of the machine learning-based automated playtesting process for *Frame Arms Girl: Dream Stadium* and an upcoming title, which greatly contributed to bug discovery and design validation. This involved devising and implementing all of the system components behind this process and the model’s architecture.
 - Designed and implemented the internal solution for building and deploying deep learning-trained game-playing agents in Unity. This solution addressed the limitations of the previous solution by featuring improved speed, scalability, and extensibility through features such as async action retrieval, dynamic batching, a plugin-based architecture, and more robust fault tolerance.
+- Led the design and development of predictive modeling systems to support the servicing of our games and established stable, cloud-native MLOps for developing and servicing these models.
 - Implemented advanced training algorithms and techniques for optimized and more effective model training.
-- Currently developing ML-based automated playtesting for an upcoming title, and actively experimenting with ideas related to player modeling and game personalization to improve user experience and create business value.
 
 ## GDC 2024
 
@@ -28,4 +28,4 @@ I presented the work on the automated playtesting process for *Frame Arms Girl: 
 
 ## Skills
 
-PyTorch, Python, Unity, C#, Git, AWS / GCP, Deep Reinforcement Learning
+Deep Learning, Deep Reinforcement Learning, MLOps, GCP, Kubernetes, Docker, Python, PyTorch, Polars, FastAPI, Unity, C#, Git
