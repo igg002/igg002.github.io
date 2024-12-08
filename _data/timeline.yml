@@ -1,18 +1,9 @@
+- title: Machine Learning Engineer, LoadComplete
+  from: 2022
+  to: present
+  description: Working as a machine learning engineer on the Applied ML team, focusing on building and integrating machine learning solutions into the studio's game development and servicing processes.
+
 - title: Rensselaer Polytechnic Institute
   from: 2019
-  to: 2023
-  description: Undergraduate student dual-majoring in Computer Science and Games and Simulation Arts and Sciences.
-
-- title: Sunrin Internet High School
-  from: 2016
-  to: 2019
-  description: Studied software engineering at the school located in Seoul, South Korea.
-
-# - title: Software Engineer, Google, UK
-#   from: 2018
-#   to: present
-#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: 2022
+  description: Majored in Computer Science.

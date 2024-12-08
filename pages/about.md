@@ -13,18 +13,27 @@ My versatile skill set spans traditional AI techniques to cutting-edge machine l
 
 With my expertise, I deliver exceptional results and create games that leave a lasting impact on players, providing them with unforgettable gaming experiences.
 
-* :office: I currently work at [LoadComplete](https://www.loadcomplete.com/) as a machine learning engineer focusing on ways to integrate machine learning into the studio's game development process. My work primarily focuses on automated game playtesting, in-game AI development, and player modeling and personalization.
+I currently work at [LoadComplete](https://www.loadcomplete.com/) as a machine learning engineer focusing on ways to integrate machine learning into the studio's game development and servicing processes. My work primarily focuses on automated game playtesting, in-game AI development, and player modeling and personalization.
 
-* :school: I'm currently taking a leave of absence from [RPI](https://rpi.edu/), where I'm pursuing an undergraduate degree in computer science and games and simulation arts and sciences.
+## Skills
 
-* :video_game: I also love doing indie game development in my spare time!
-
-<!-- Hi, I am **{{ site.author.name }}** :wave:, currently studying digital entertainment innovation, design, and technology @ [RPI](https://rpi.edu/). I focus on experimenting with emerging technologies such as machine learning to innovate and explore new possibilities for next-gen video games. -->
-
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+- Python
+- PyTorch
+- Polars
+- FastAPI
+- Docker
+- Kubernetes
+- Google Cloud Platform (GCP)
+- MLOps / RLOps / DevOps
+- Deep Learning
+- Deep Reinforcement Learning
+- Data Engineering
+- Software Development
+- Game Development
+- Unity
+- C#
+- C++
+- Git
 
 <div class="row">
 {% include about/timeline.html %}

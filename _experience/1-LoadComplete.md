@@ -28,4 +28,20 @@ I presented the work on the automated playtesting process for *Frame Arms Girl: 
 
 ## Skills
 
-Deep Learning, Deep Reinforcement Learning, MLOps, GCP, Kubernetes, Docker, Python, PyTorch, Polars, FastAPI, Unity, C#, Git
+- Python
+- PyTorch
+- Polars
+- FastAPI
+- Docker
+- Kubernetes
+- Google Cloud Platform (GCP)
+- MLOps / RLOps / DevOps
+- Deep Learning
+- Deep Reinforcement Learning
+- Data Engineering
+- Software Development
+- Game Development
+- Unity
+- C#
+- C++
+- Git
