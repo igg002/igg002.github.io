@@ -19,7 +19,7 @@ Machine learning engineer on the Applied ML team, focusing on building and integ
 
 - Led the design and development of the machine learning-based automated playtesting process for *Frame Arms Girl: Dream Stadium* and an upcoming title, which greatly contributed to bug discovery and design validation. This involved devising and implementing all of the system components behind this process and the model’s architecture.
 - Designed and implemented the internal solution for building and deploying deep learning-trained game-playing agents in Unity. This solution addressed the limitations of the previous solution by featuring improved speed, scalability, and extensibility through features such as async action retrieval, dynamic batching, a plugin-based architecture, and more robust fault tolerance.
-- Led the design and development of predictive modeling systems to support the servicing of our games and established stable, cloud-native MLOps for developing and servicing these models.
+- Led the design and development of predictive modeling systems to support the servicing of our games and established stable, cloud-native MLOps for developing, servicing, and monitoring these models.
 - Implemented advanced training algorithms and techniques for optimized and more effective model training.
 
 ## GDC 2024
