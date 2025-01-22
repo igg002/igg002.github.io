@@ -26,7 +26,9 @@ I currently work at [LoadComplete](https://www.loadcomplete.com/) as a machine l
 - Google Cloud Platform (GCP)
 - MLOps / RLOps / DevOps
 - Deep Learning
+- Machine Learning
 - Deep Reinforcement Learning
+- Predictive Behavior Modeling
 - Data Engineering
 - Software Development
 - Game Development
@@ -34,6 +36,7 @@ I currently work at [LoadComplete](https://www.loadcomplete.com/) as a machine l
 - C#
 - C++
 - Git
+- SQL
 
 <div class="row">
 {% include about/timeline.html %}

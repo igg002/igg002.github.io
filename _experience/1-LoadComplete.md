@@ -37,7 +37,9 @@ I presented the work on the automated playtesting process for *Frame Arms Girl: 
 - Google Cloud Platform (GCP)
 - MLOps / RLOps / DevOps
 - Deep Learning
+- Machine Learning
 - Deep Reinforcement Learning
+- Predictive Behavior Modeling
 - Data Engineering
 - Software Development
 - Game Development
@@ -45,3 +47,4 @@ I presented the work on the automated playtesting process for *Frame Arms Girl: 
 - C#
 - C++
 - Git
+- SQL
